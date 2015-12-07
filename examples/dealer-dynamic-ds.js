@@ -8,21 +8,21 @@ function DealerDataSource() {
 DealerDataSource.prototype.getStores = function(bounds, features, callback) {
   var that = this;
   var center = bounds.getCenter();
-  var audioFeature = this.FEATURES_.getById('Audio-YES');
-  var wheelchairFeature = this.FEATURES_.getById('Wheelchair-YES');
+  // var audioFeature = this.FEATURES_.getById('Audio-YES');
+  // var wheelchairFeature = this.FEATURES_.getById('Wheelchair-YES');
 
   var where = '(ST_INTERSECTS(geometry, ' + this.boundsToWkt_(bounds) + ')' +
       ' OR ST_DISTANCE(geometry, ' + this.latLngToWkt_(center) + ') < 20000)';
 
-  if (features.contains(audioFeature)) {
-    where += " AND Audio='YES'";
-  }
-  if (features.contains(wheelchairFeature)) {
-    where += " AND Wheelchair='YES'";
-  }
+  // if (features.contains(audioFeature)) {
+  //   where += " AND Audio='YES'";
+  // }
+  // if (features.contains(wheelchairFeature)) {
+  //   where += " AND Wheelchair='YES'";
+  // }
 
   var tableId = '12421761926155747447-06672618218968397709';
-  var url = 'http://localhost/js-store-locator/examples/data.json?callback=?';
+  var url = 'http://localhost/js-plugins-store-locator-google/examples/data.json?callback=test';
 
   $.getJSON(url, {
     key: 'AIzaSyAtunhRg0VTElV-P7n4Agpm9tYlABQDCAM',
@@ -56,22 +56,22 @@ DealerDataSource.prototype.boundsToWkt_ = function(bounds) {
 
 DealerDataSource.prototype.parse_ = function(data) {
   var stores = [];
-  for (var i = 0, row; row = data.features[i]; i++) {
+  for (var i = 0, row; row = data.results[i]; i++) {
     var props = row.properties;
     var features = new storeLocator.FeatureSet;
-    features.add(this.FEATURES_.getById('Wheelchair-' + props.Wheelchair));
-    features.add(this.FEATURES_.getById('Audio-' + props.Audio));
+    // features.add(this.FEATURES_.getById('Wheelchair-' + props.Wheelchair));
+    // features.add(this.FEATURES_.getById('Audio-' + props.Audio));
 
-    var position = new google.maps.LatLng(row.geometry.coordinates[1],
-                                          row.geometry.coordinates[0]);
 
-    var shop = this.join_([props.Shp_num_an, props.Shp_centre], ', ');
-    var locality = this.join_([props.Locality, props.Postcode], ', ');
+        var position = new google.maps.LatLng(row.lat, row.lon);
 
-    var store = new storeLocator.Store(props.uuid, position, features, {
-      title: props.Fcilty_nam,
-      address: this.join_([shop, props.Street_add, locality], '<br>'),
-      hours: props.Hrs_of_bus
+    var shop = this.join_([row.Shp_num_an, row.Shp_centre], ', ');
+    var locality = this.join_([row.city, , row.state, row.zip], ', ');
+
+    var store = new storeLocator.Store(row.ID, position, features, {
+      title: row.name,
+      address: this.join_([shop, row.address1, row.address2, locality ], '<br>'),
+      hours: row.Hrs_of_bus
     });
     stores.push(store);
   }
