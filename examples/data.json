@@ -1,0 +1,4152 @@
+{
+  "results": [
+
+  {
+    "ID": 1126,
+    "email": "electricstereo@hotmail.com",
+    "name": "Galaxy LEDs",
+    "address1": "2720 cheakamus way suite 2",
+    "address2": "",
+    "state": "British Columbia",
+    "city": "Whistler",
+    "country": "Canada",
+    "zip": "V0N 1B2",
+    "latlon": [
+50.0880454,
+-123.00357099999997
+]
+  },
+  {
+    "ID": 323,
+    "email": "scclifton@hotmail.com",
+    "name": "Green Thumb Hydroponics",
+    "address1": "PO Box 34002",
+    "address2": "",
+    "state": "Manitoba",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "zip": "R3T 5T5",
+    "latlon": [
+49.7896802,
+-97.15716859999998
+]
+  },
+  {
+    "ID": 16,
+    "email": "darren@mygreenplanet.com",
+    "name": "Gardening Unlimited",
+    "address1": "15374-103A Avenue",
+    "address2": "",
+    "state": "British Columbia",
+    "city": "Surrey",
+    "country": "Canada",
+    "zip": "V3R 7A2",
+    "latlon": [
+49.1904806,
+-122.79553550000003
+]
+  },
+  {
+    "ID": 40,
+    "email": "vindor@shawbiz.ca",
+    "name": "Grofax",
+    "address1": "#103-44195 Yale Rd. West",
+    "address2": "",
+    "state": "British Columbia",
+    "city": "Chilliwack",
+    "country": "Canada",
+    "zip": "V2R 4H2",
+    "latlon": [
+49.1457679,
+-122.00163399999997
+]
+  },
+  {
+    "ID": 709,
+    "email": "cundersun@yahoo.com",
+    "name": "IE Hydrogarden",
+    "address1": "217 chemin Laurent",
+    "address2": "",
+    "state": "Quebec",
+    "city": "Saint-Adolphe-d`Howard",
+    "country": "Canada",
+    "zip": "J0T 2B0",
+    "latlon": [
+45.9965455,
+-74.28376500000002
+]
+  },
+  {
+    "ID": 895,
+    "email": "rburnettsrn.rb@gmail.com",
+    "name": "Green Spot Hydro",
+    "address1": "214 Queen Street",
+    "address2": "",
+    "state": "Ontario",
+    "city": "Sarnia",
+    "country": "Canada",
+    "zip": "N7T2R6",
+    "latlon": [
+42.9653335,
+-82.40745849999996
+]
+  },
+  {
+    "ID": 577,
+    "email": "info@tricoma.cl",
+    "name": "Verde Manana",
+    "address1": "Independencia 50 Oficina 8",
+    "address2": "",
+    "state": "Los Lagos",
+    "city": "Puerto Varas",
+    "country": "Mexico",
+    "zip": 5550550,
+    "latlon": [
+-41.31289659999999,
+-72.9864116
+]
+  },
+  {
+    "ID": 748,
+    "email": "sales@easygrow.co.nz",
+    "name": "Evergreen Garden supply",
+    "address1": "Unit 9/69 Wiri Station Rd",
+    "address2": "",
+    "state": "Auckland",
+    "city": "Manukau",
+    "country": "New Zealand",
+    "zip": 2104,
+    "latlon": [
+-36.9980474,
+174.87502500000005
+]
+  },
+  {
+    "ID": 364,
+    "email": "sorokin.ivan@gmail.com",
+    "name": "Greener Side of Life",
+    "address1": "Blah Blah",
+    "address2": "",
+    "state": 0,
+    "city": "Kiev",
+    "country": "Russia",
+    "zip": 3035,
+    "latlon": [
+50.433096,
+30.48502600000006
+]
+  },
+  {
+    "ID": 363,
+    "email": "sorokin.ivan@gmail.com",
+    "name": "Gro More Garden Supply",
+    "address1": "15 Uritskogo flat 95",
+    "address2": "",
+    "state": 0,
+    "city": "Kiev",
+    "country": "Russia",
+    "zip": 3035,
+    "latlon": [
+50.433096,
+30.48502600000006
+]
+  },
+  {
+    "ID": 1359,
+    "email": "info@santyerbasi.com",
+    "name": "Horticultura Técnica",
+    "address1": "Berlinés 4 Bajo",
+    "address2": "",
+    "state": "Barcelona",
+    "city": "Barcelona",
+    "country": "Spain",
+    "zip": 8006,
+    "latlon": [
+41.4035687,
+2.139992500000062
+]
+  },
+  {
+    "ID": 258,
+    "email": "sales@sgsak.com",
+    "name": "Organic Garden Center",
+    "address1": "12870 Old Seward Hwy #144",
+    "address2": "",
+    "state": "Alaska",
+    "city": "Anchorage",
+    "country": "United States",
+    "zip": 99515,
+    "latlon": [
+61.10352820000001,
+-149.85897950000003
+]
+  },
+  {
+    "ID": 915,
+    "email": "russell.peterson@alaska.net",
+    "name": "Craig Robbins LLC",
+    "address1": "1687 Harbor Way",
+    "address2": "",
+    "state": "Alaska",
+    "city": "Juneau",
+    "country": "United States",
+    "zip": 99801,
+    "latlon": [
+58.3042572,
+-134.4299795
+]
+  },
+  {
+    "ID": 258,
+    "email": "sales@sgsak.com",
+    "name": "Palm Tree Hydroponics",
+    "address1": "P.O. Box 125",
+    "address2": "",
+    "state": "Alaska",
+    "city": "Cold Bay",
+    "country": "United States",
+    "zip": 99571,
+    "latlon": [
+55.2157912,
+-162.76866440000003
+]
+  },
+  {
+    "ID": 235,
+    "email": "secretgardensupply@gmail.com",
+    "name": "Green Door Hydroponics",
+    "address1": "152 Macleay Rd.",
+    "address2": "",
+    "state": "Washington",
+    "city": "Sequim",
+    "country": "United States",
+    "zip": 98382,
+    "latlon": [
+48.1086574,
+-123.17149
+]
+  },
+  {
+    "ID": 196,
+    "email": "Westcoastorganics@gmail.com",
+    "name": "Cost Plus Hydro",
+    "address1": "8701 N Division St. Suite D",
+    "address2": "",
+    "state": "Washington",
+    "city": "Spokane",
+    "country": "United States",
+    "zip": 99218,
+    "latlon": [
+47.737011,
+-117.41194789999997
+]
+  },
+  {
+    "ID": 813,
+    "email": "danjsperry@gmail.com",
+    "name": "All Gro Hydroponics (MI)",
+    "address1": "4625 Lake WA Blvd. NE",
+    "address2": "",
+    "state": "Washington",
+    "city": "Kirkland",
+    "country": "United States",
+    "zip": 98033,
+    "latlon": [
+47.7020536,
+-122.18063740000002
+]
+  },
+  {
+    "ID": 57,
+    "email": "ryan@sodohydro.com",
+    "name": "Bloom Garden Supply",
+    "address1": "1727 1st Avenue South",
+    "address2": "",
+    "state": "Washington",
+    "city": "Seattle",
+    "country": "United States",
+    "zip": 98134,
+    "latlon": [
+47.5879367,
+-122.33422359999997
+]
+  },
+  {
+    "ID": 703,
+    "email": "indoortropics@gmail.com",
+    "name": "Grass Valley Hydrogarden",
+    "address1": "5930 Sunburst Lane Unit B",
+    "address2": "",
+    "state": "Washington",
+    "city": "Cashmere",
+    "country": "United States",
+    "zip": 98815,
+    "latlon": [
+47.52995199999999,
+-120.49310200000002
+]
+  },
+  {
+    "ID": 1073,
+    "email": "arnoldmarkarnold@gmail.com",
+    "name": "Boldly Grow Hydro",
+    "address1": "422 Mill Avenue South # 302",
+    "address2": "",
+    "state": "Washington",
+    "city": "Renton",
+    "country": "United States",
+    "zip": 98057,
+    "latlon": [
+47.47728,
+-122.20267799999999
+]
+  },
+  {
+    "ID": 1130,
+    "email": "gjames@topics-ent.com",
+    "name": "DNA Genetics",
+    "address1": "3405 Lind Ave",
+    "address2": "",
+    "state": "Washington",
+    "city": "Renton",
+    "country": "United States",
+    "zip": 98057,
+    "latlon": [
+47.449196,
+-122.22361920000003
+]
+  },
+  {
+    "ID": 320,
+    "email": "info@elementalsolution.com",
+    "name": "Long Beach Hydroponics",
+    "address1": "20 42nd St NE Suite B",
+    "address2": "",
+    "state": "Washington",
+    "city": "Auburn",
+    "country": "United States",
+    "zip": 98002,
+    "latlon": [
+47.3442956,
+-122.2297883
+]
+  },
+  {
+    "ID": 320,
+    "email": "info@elementalsolution.com",
+    "name": "Room To Grow (CO)",
+    "address1": "725 R ST NE",
+    "address2": "",
+    "state": "Washington",
+    "city": "Auburn",
+    "country": "United States",
+    "zip": 98002,
+    "latlon": [
+47.3150252,
+-122.20852990000003
+]
+  },
+  {
+    "ID": 164,
+    "email": "tom@montana.net",
+    "name": "Hydro Your Own",
+    "address1": "2105 Ottawa Street",
+    "address2": "",
+    "state": "Montana",
+    "city": "Butte",
+    "country": "United States",
+    "zip": 59701,
+    "latlon": [
+45.98977199999999,
+-112.50761399999999
+]
+  },
+  {
+    "ID": 566,
+    "email": "indoorgardensupplyllc@gmail.com",
+    "name": "Frontier Services",
+    "address1": "1250 Atlantic Ave.",
+    "address2": "",
+    "state": "Washington",
+    "city": "Woodland",
+    "country": "United States",
+    "zip": 98674,
+    "latlon": [
+45.908625,
+-122.74309800000003
+]
+  },
+  {
+    "ID": 1265,
+    "email": "jeanette52@outlook.com",
+    "name": "Cedar Graphics",
+    "address1": "P.O. Box 643",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Hermiston",
+    "country": "United States",
+    "zip": 97838,
+    "latlon": [
+45.8282162,
+-119.25916269999999
+]
+  },
+  {
+    "ID": 256,
+    "email": "growgreenmontana@hotmail.com",
+    "name": "All Seasons Hydroponics",
+    "address1": "P.O. Box 11138",
+    "address2": "",
+    "state": "Montana",
+    "city": "Bozeman",
+    "country": "United States",
+    "zip": 59719,
+    "latlon": [
+45.65,
+-111.17000000000002
+]
+  },
+  {
+    "ID": 256,
+    "email": "growgreenmontana@hotmail.com",
+    "name": "Michigan Garden Supply",
+    "address1": "80085 Gallatin Road Suite F",
+    "address2": "",
+    "state": "Montana",
+    "city": "Bozeman",
+    "country": "United States",
+    "zip": 59718,
+    "latlon": [
+45.64699830000001,
+-111.19333970000002
+]
+  },
+  {
+    "ID": 1138,
+    "email": "jordan@evergreengardensupply.com",
+    "name": "Budmaster LED",
+    "address1": "10415 NE Sandy Blvd.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Portland",
+    "country": "United States",
+    "zip": 97220,
+    "latlon": [
+45.5591341,
+-122.55536970000003
+]
+  },
+  {
+    "ID": 66,
+    "email": "tim@bloomgardensupply.com",
+    "name": "Garden Spout Portland",
+    "address1": "518 Northeast 20TH Ave.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Portland",
+    "country": "United States",
+    "zip": 97232,
+    "latlon": [
+45.5269212,
+-122.64513950000003
+]
+  },
+  {
+    "ID": 14,
+    "email": "nlgdavid@yahoo.com",
+    "name": "Cultivate Hydroponics & Organics",
+    "address1": "9290 South Beaverton Hills Highway",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Beaverton",
+    "country": "United States",
+    "zip": 97005,
+    "latlon": [
+45.4864324,
+-122.772337
+]
+  },
+  {
+    "ID": 652,
+    "email": "kevinc@advancednutrients.com",
+    "name": "Victory Hydro Gardens",
+    "address1": "7335 SE 18th Ave.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Portland",
+    "country": "United States",
+    "zip": 97202,
+    "latlon": [
+45.47146799999999,
+-122.64674400000001
+]
+  },
+  {
+    "ID": 1135,
+    "email": "ben@portlandhydro.com",
+    "name": "Cannabis Now Magazine",
+    "address1": "11564 SW Pacific Highway",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Tigard",
+    "country": "United States",
+    "zip": 97223,
+    "latlon": [
+45.4397586,
+-122.75019399999996
+]
+  },
+  {
+    "ID": 196,
+    "email": "Westcoastorganics@gmail.com",
+    "name": "Method Seven Employee Specials $50.00",
+    "address1": "12410 SE 282nd Ave. Unit C",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Boring",
+    "country": "United States",
+    "zip": 97009,
+    "latlon": [
+45.4331375,
+-122.37178460000001
+]
+  },
+  {
+    "ID": 996,
+    "email": "guy@willametteindoorgardensupply.com",
+    "name": "Urban Grower",
+    "address1": "408 Beaver Creek Road Suite 402",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Oregon City",
+    "country": "United States",
+    "zip": 97045,
+    "latlon": [
+45.3331664,
+-122.59139670000002
+]
+  },
+  {
+    "ID": 879,
+    "email": "sales@glhydroco.com",
+    "name": "Northeast Hydroponics and Homebrewing",
+    "address1": "5998 US 31 South",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Charlevoix",
+    "country": "United States",
+    "zip": 49720,
+    "latlon": [
+45.2934376,
+-85.29562720000001
+]
+  },
+  {
+    "ID": 879,
+    "email": "sales@glhydroco.com",
+    "name": "Northeast Hydroponics and Homebrewing",
+    "address1": "05998 U.S. 31 South",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Charlievoix",
+    "country": "United States",
+    "zip": 49720,
+    "latlon": [
+45.2917825,
+-85.30121869999999
+]
+  },
+  {
+    "ID": 842,
+    "email": "dealerservices@methodseven.com",
+    "name": "Specialized Bicycle Components",
+    "address1": "1026 NE Irvine Street",
+    "address2": "",
+    "state": "Oregon",
+    "city": "McMinnville",
+    "country": "United States",
+    "zip": 97128,
+    "latlon": [
+45.21529280000001,
+-123.1895839
+]
+  },
+  {
+    "ID": 886,
+    "email": "kelwah50@gmail.com",
+    "name": "The Garden Connection",
+    "address1": "3837 River Rd. N.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Keiser",
+    "country": "United States",
+    "zip": 97303,
+    "latlon": [
+44.9812814,
+-123.02661030000002
+]
+  },
+  {
+    "ID": 689,
+    "email": "thehomegrownconnection@hotmail.com",
+    "name": "Fox Head, Inc",
+    "address1": "407 Wilton Road",
+    "address2": "",
+    "state": "Maine",
+    "city": "Farmington",
+    "country": "United States",
+    "zip": 4938,
+    "latlon": [
+44.6384573,
+-70.15330549999999
+]
+  },
+  {
+    "ID": 532,
+    "email": "kelly@corvallishydro.com",
+    "name": "Garden all Year",
+    "address1": "5490 SW Philomath Blvd.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Corvallis",
+    "country": "United States",
+    "zip": 97333,
+    "latlon": [
+44.5498519,
+-123.31422680000003
+]
+  },
+  {
+    "ID": 693,
+    "email": "support@gtghydroponics.com",
+    "name": "Flora Hydroponics",
+    "address1": "PO Box 235",
+    "address2": "",
+    "state": "Vermont",
+    "city": "Underhill",
+    "country": "United States",
+    "zip": 5489,
+    "latlon": [
+44.5481845,
+-72.8763806
+]
+  },
+  {
+    "ID": 247,
+    "email": "bartlettfunnyfarm@gmail.com",
+    "name": "Hydroponics Inc.",
+    "address1": "3 Bird Hill Road",
+    "address2": "",
+    "state": "Maine",
+    "city": "Greenwood",
+    "country": "United States",
+    "zip": 4225,
+    "latlon": [
+44.4005778,
+-70.70350159999998
+]
+  },
+  {
+    "ID": 1297,
+    "email": "growinsideout@gate.net",
+    "name": "Grofax 5",
+    "address1": "1766 Federal Road Suite D",
+    "address2": "",
+    "state": "Maine",
+    "city": "Livermore",
+    "country": "United States",
+    "zip": 4253,
+    "latlon": [
+44.37364669999999,
+-70.25047410000002
+]
+  },
+  {
+    "ID": 976,
+    "email": "sales@growitbest.com",
+    "name": "Timponic Produce Management Solutions, LTD.",
+    "address1": "628 SW Glacier Ave Suite C",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Redmond",
+    "country": "United States",
+    "zip": 97756,
+    "latlon": [
+44.27029599999999,
+-121.17502200000001
+]
+  },
+  {
+    "ID": 1192,
+    "email": "kelly@dakine420.com",
+    "name": "Flint Digital",
+    "address1": "2574 NW Champion Circle",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Bend",
+    "country": "United States",
+    "zip": 97701,
+    "latlon": [
+44.07788499999999,
+-121.35258799999997
+]
+  },
+  {
+    "ID": 115,
+    "email": "brent@theherbcenter.net",
+    "name": "The Green Thumb",
+    "address1": "2205 Northeast Division",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Bend",
+    "country": "United States",
+    "zip": 97701,
+    "latlon": [
+44.071888,
+-121.30629299999998
+]
+  },
+  {
+    "ID": 650,
+    "email": "greenersideoflife@comcast.net",
+    "name": "Mile High Cannabis",
+    "address1": "623 W. Centennial Ave.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Springfield, OR",
+    "country": "United States",
+    "zip": 97477,
+    "latlon": [
+44.057122,
+-123.03472390000002
+]
+  },
+  {
+    "ID": 366,
+    "email": "abeaudoin@bendbroadband.com",
+    "name": "Advanced Nutrients",
+    "address1": "35 NW Bond St.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Bend",
+    "country": "United States",
+    "zip": 97701,
+    "latlon": [
+44.05207799999999,
+-121.31676299999998
+]
+  },
+  {
+    "ID": 416,
+    "email": "mattmonger@gmail.com",
+    "name": "Flora Grow Ltd.",
+    "address1": "2440 Adams St.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Eugene",
+    "country": "United States",
+    "zip": 97405,
+    "latlon": [
+44.032337,
+-123.10744699999998
+]
+  },
+  {
+    "ID": 416,
+    "email": "mattmonger@gmail.com",
+    "name": "Tru Bloomz Hydroponics",
+    "address1": "88680 McVay Hwy",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Eugene",
+    "country": "United States",
+    "zip": 97405,
+    "latlon": [
+44.0173905,
+-123.02544069999999
+]
+  },
+  {
+    "ID": 753,
+    "email": "amacri@comcast.net",
+    "name": "Grow Guru Horticulture (Pty) South Africa",
+    "address1": "362 Richardson Road",
+    "address2": "",
+    "state": "Maine",
+    "city": "Hiram",
+    "country": "United States",
+    "zip": 4041,
+    "latlon": [
+43.814693,
+-70.79268560000003
+]
+  },
+  {
+    "ID": 65,
+    "email": "207katahdin@gmail.com",
+    "name": "Horizen Hydroponics/Growers Outlet",
+    "address1": "659 Warren Ave",
+    "address2": "",
+    "state": "Maine",
+    "city": "Portland",
+    "country": "United States",
+    "zip": 4103,
+    "latlon": [
+43.687259,
+-70.32766700000002
+]
+  },
+  {
+    "ID": 980,
+    "email": "hempknight848@gmail.com",
+    "name": "MethodSeven Sales",
+    "address1": "8875 Jefferson Rd",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Lakeview",
+    "country": "United States",
+    "zip": 48850,
+    "latlon": [
+43.4893334,
+-85.26276960000001
+]
+  },
+  {
+    "ID": 327,
+    "email": "growtchs@gmail.com",
+    "name": "Horticontrol",
+    "address1": "1965 Holton Road",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Muskegon",
+    "country": "United States",
+    "zip": 49445,
+    "latlon": [
+43.2892963,
+-86.21533879999998
+]
+  },
+  {
+    "ID": 234,
+    "email": "omaha@paradigmgardens.com",
+    "name": "Battle Creek Indoor Gardening",
+    "address1": "4501 Helgesen Dr.",
+    "address2": "",
+    "state": "Wisconsin",
+    "city": "Madison",
+    "country": "United States",
+    "zip": 53718,
+    "latlon": [
+43.066109,
+-89.30642999999998
+]
+  },
+  {
+    "ID": 669,
+    "email": "kevinpratt808@gmail.com",
+    "name": "Illumitex",
+    "address1": "545 Hooksett Rd. Unit #24",
+    "address2": "",
+    "state": "New Hampshire",
+    "city": "Manchester",
+    "country": "United States",
+    "zip": 3104,
+    "latlon": [
+43.0149485,
+-71.45064250000001
+]
+  },
+  {
+    "ID": 252,
+    "email": "happyharvesterburton@gmail.com",
+    "name": "New Mexico Hydroponics",
+    "address1": "4410 S. Saginaw",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Burton",
+    "country": "United States",
+    "zip": 48529,
+    "latlon": [
+42.963458,
+-83.67091299999998
+]
+  },
+  {
+    "ID": 326,
+    "email": "myocina@yahoo.com",
+    "name": "Purely Hydroponic",
+    "address1": "P.O. Box 251",
+    "address2": "",
+    "state": "New York",
+    "city": "Corfu",
+    "country": "United States",
+    "zip": 14036,
+    "latlon": [
+42.9600595,
+-78.40557669999998
+]
+  },
+  {
+    "ID": 479,
+    "email": "secondchance19@gmail.com",
+    "name": "Outside In Hydro & Organics AU",
+    "address1": "692 Franklin St.",
+    "address2": "",
+    "state": "New York",
+    "city": "Skaneateles",
+    "country": "United States",
+    "zip": 13152,
+    "latlon": [
+42.954633,
+-76.455242
+]
+  },
+  {
+    "ID": 326,
+    "email": "myocina@yahoo.com",
+    "name": "Smith Indoor Garden",
+    "address1": "1102 Ganson Ave.",
+    "address2": "",
+    "state": "New York",
+    "city": "Corfu",
+    "country": "United States",
+    "zip": 14036,
+    "latlon": [
+42.954374,
+-78.40734989999999
+]
+  },
+  {
+    "ID": 479,
+    "email": "secondchance19@gmail.com",
+    "name": "Harvest Time Hydroponics AU",
+    "address1": "PO Box 324",
+    "address2": "",
+    "state": "New York",
+    "city": "Skaneateles",
+    "country": "United States",
+    "zip": 13152,
+    "latlon": [
+42.947011,
+-76.42910169999999
+]
+  },
+  {
+    "ID": 1356,
+    "email": "pjw368@gmail.com",
+    "name": "Bedford Grow LLC",
+    "address1": "1860 Stilesgate St. SE",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Grand Rapids",
+    "country": "United States",
+    "zip": 49508,
+    "latlon": [
+42.895731,
+-85.61945700000001
+]
+  },
+  {
+    "ID": 1238,
+    "email": "greenmtnhydro@gmail.com",
+    "name": "Rhode Island Hydroponics",
+    "address1": "106 North Street",
+    "address2": "",
+    "state": "Vermont",
+    "city": "Bennington",
+    "country": "United States",
+    "zip": 5201,
+    "latlon": [
+42.8785912,
+-73.19714049999999
+]
+  },
+  {
+    "ID": 73,
+    "email": "Horizenhydroponics@gmail.com",
+    "name": "Greenlife Garden Supply",
+    "address1": "7720 Clyde Park Ave SW",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Byron Center",
+    "country": "United States",
+    "zip": 49315,
+    "latlon": [
+42.8243584,
+-85.6828625
+]
+  },
+  {
+    "ID": 655,
+    "email": "info@HGRsupply.com",
+    "name": "Cedar Graphics",
+    "address1": "15231 N. Holly Rd.",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Holly",
+    "country": "United States",
+    "zip": 48442,
+    "latlon": [
+42.8166007,
+-83.62839280000003
+]
+  },
+  {
+    "ID": 1312,
+    "email": "Jaymthorburn@gmail.com",
+    "name": "The University of Western Australia",
+    "address1": "2208 E Michigan Ave.",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Lansing",
+    "country": "United States",
+    "zip": 48912,
+    "latlon": [
+42.7333408,
+-84.51963690000002
+]
+  },
+  {
+    "ID": 982,
+    "email": "jeff.gibson@superiorgrowers.com",
+    "name": "Eye Care Center of Snohomish",
+    "address1": "5711 Enterprise Dr.",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Lansing",
+    "country": "United States",
+    "zip": 48911,
+    "latlon": [
+42.674705,
+-84.5278189
+]
+  },
+  {
+    "ID": 176,
+    "email": "Elizabeth.Kelly@superiorgrowers.com",
+    "name": "Bear Valley Hydroponics & Homebrewing",
+    "address1": "5711 Enterprise Drive",
+    "address2": "",
+    "state": "Michigan",
+    "city": "East Lansing",
+    "country": "United States",
+    "zip": 48911,
+    "latlon": [
+42.6745155,
+-84.5284082
+]
+  },
+  {
+    "ID": 676,
+    "email": "Info@thegrowstop.com",
+    "name": "Phenotype Farmers",
+    "address1": "7380 Highland Road",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Waterford",
+    "country": "United States",
+    "zip": 48327,
+    "latlon": [
+42.661782,
+-83.43417799999997
+]
+  },
+  {
+    "ID": 361,
+    "email": "Organicagardensupply@gmail.com",
+    "name": "Lux Cuttings",
+    "address1": "467 Delaware Ave.",
+    "address2": "",
+    "state": "New York",
+    "city": "Albany",
+    "country": "United States",
+    "zip": 12209,
+    "latlon": [
+42.6403869,
+-73.784468
+]
+  },
+  {
+    "ID": 194,
+    "email": "jsorensen@hydroyourown.com",
+    "name": "A Fertile World",
+    "address1": "8501 75th Street Unit C",
+    "address2": "",
+    "state": "Wisconsin",
+    "city": "Kenosha",
+    "country": "United States",
+    "zip": 53142,
+    "latlon": [
+42.565746,
+-87.910436
+]
+  },
+  {
+    "ID": 389,
+    "email": "bilcoind@centurylink.net",
+    "name": "Hydro Capitol",
+    "address1": "PO Box 1105",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Eagle Point",
+    "country": "United States",
+    "zip": 97524,
+    "latlon": [
+42.4726258,
+-122.80281769999999
+]
+  },
+  {
+    "ID": 562,
+    "email": "sger90@yahoo.com",
+    "name": "Bare Roots",
+    "address1": "720 Willow Way",
+    "address2": "",
+    "state": "New York",
+    "city": "Ithaca",
+    "country": "United States",
+    "zip": 14850,
+    "latlon": [
+42.4525563,
+-76.50621869999998
+]
+  },
+  {
+    "ID": 938,
+    "email": "info@indooreden.net",
+    "name": "Soldiers of Green, SL / Sant Yerbasi",
+    "address1": "9281 Michigan 36",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Whitmore Lake",
+    "country": "United States",
+    "zip": 48189,
+    "latlon": [
+42.4423622,
+-83.76379450000002
+]
+  },
+  {
+    "ID": 165,
+    "email": "Sales@ultragreenhydroponics.com",
+    "name": "509 Garden Supply",
+    "address1": "29541 W. 8 Mile Road",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Livonia",
+    "country": "United States",
+    "zip": 48152,
+    "latlon": [
+42.440061,
+-83.37730599999998
+]
+  },
+  {
+    "ID": 389,
+    "email": "bilcoind@centurylink.net",
+    "name": "The Homegrown Connection",
+    "address1": "1350 Dry Creek Rd.",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Eagle Point",
+    "country": "United States",
+    "zip": 97524,
+    "latlon": [
+42.397685,
+-122.76408500000002
+]
+  },
+  {
+    "ID": 217,
+    "email": "orders@gyostuff.com",
+    "name": "Grow Green Montana",
+    "address1": "2400 Massachusetts Ave.",
+    "address2": "",
+    "state": "Massachusetts",
+    "city": "Cambridge",
+    "country": "United States",
+    "zip": 2140,
+    "latlon": [
+42.3970597,
+-71.1302576
+]
+  },
+  {
+    "ID": 872,
+    "email": "calebh@media.mit.edu",
+    "name": "Hydro Center",
+    "address1": "20 Ames St, E15-384F",
+    "address2": "",
+    "state": "Massachusetts",
+    "city": "Cambridge",
+    "country": "United States",
+    "zip": 2142,
+    "latlon": [
+42.3607011,
+-71.08772269999997
+]
+  },
+  {
+    "ID": 569,
+    "email": "bbhydro@wowway.biz",
+    "name": "HydroDynamics International Inc.",
+    "address1": "24330 Ann Arbor Trail",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Dearborn Heights",
+    "country": "United States",
+    "zip": 48127,
+    "latlon": [
+42.350488,
+-83.27658500000001
+]
+  },
+  {
+    "ID": 788,
+    "email": "andrew.sereno@gmail.com",
+    "name": "Sea of Green Flagstaff",
+    "address1": "12760 Mckinley Heights Dr.",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Chelsea",
+    "country": "United States",
+    "zip": 48118,
+    "latlon": [
+42.342208,
+-83.98157800000001
+]
+  },
+  {
+    "ID": 867,
+    "email": "Tom@greenpathgardensupply.com",
+    "name": "Rootdown Hydroponics",
+    "address1": "276 West Main Street",
+    "address2": "",
+    "state": "Massachusetts",
+    "city": "Northborough",
+    "country": "United States",
+    "zip": 1532,
+    "latlon": [
+42.309046,
+-71.65802200000002
+]
+  },
+  {
+    "ID": 119,
+    "email": "ryan@zoocitygrowersupply.com",
+    "name": "Discount Hydroponics",
+    "address1": "3514 S. Westnedge",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Kalamazoo",
+    "country": "United States",
+    "zip": 49008,
+    "latlon": [
+42.2564357,
+-85.58986729999998
+]
+  },
+  {
+    "ID": 119,
+    "email": "ryan@zoocitygrowersupply.com",
+    "name": "American Agriculture",
+    "address1": "534 Parker Ave.",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Kalamazoo",
+    "country": "United States",
+    "zip": 49008,
+    "latlon": [
+42.2536123,
+-85.59033929999998
+]
+  },
+  {
+    "ID": 184,
+    "email": "mightygrow@gmail.com",
+    "name": "AHL Garden Supply",
+    "address1": "2418 W. Michigan Ave.",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Jackson",
+    "country": "United States",
+    "zip": 49207,
+    "latlon": [
+42.250302,
+-84.44331399999999
+]
+  },
+  {
+    "ID": 1131,
+    "email": "andy@fullbloomhydroponics.net",
+    "name": "Bubbleman",
+    "address1": "415 Williamson Way",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Ashland",
+    "country": "United States",
+    "zip": 97520,
+    "latlon": [
+42.2005854,
+-122.70561040000001
+]
+  },
+  {
+    "ID": 120,
+    "email": "Bhiers1@gmail.com",
+    "name": "Rosebud Magazine",
+    "address1": "2305 Ashland St. C258",
+    "address2": "",
+    "state": "Oregon",
+    "city": "Ashland",
+    "country": "United States",
+    "zip": 97520,
+    "latlon": [
+42.1856642,
+-122.67095
+]
+  },
+  {
+    "ID": 184,
+    "email": "mightygrow@gmail.com",
+    "name": "GYO",
+    "address1": "9600 Grossman Road",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Manchester",
+    "country": "United States",
+    "zip": 48158,
+    "latlon": [
+42.122538,
+-84.06187790000001
+]
+  },
+  {
+    "ID": 750,
+    "email": "info.warner@gmail.com",
+    "name": "Wholesale Garden Center",
+    "address1": "273 Hanover St",
+    "address2": "",
+    "state": "Massachusetts",
+    "city": "Hanover",
+    "country": "United States",
+    "zip": 2339,
+    "latlon": [
+42.1150589,
+-70.83213219999999
+]
+  },
+  {
+    "ID": 362,
+    "email": "harvestmoonhydro@verizon.net",
+    "name": "Cannatest",
+    "address1": "29 Washington Street/Route 1",
+    "address2": "",
+    "state": "Massachusetts",
+    "city": "Foxboro",
+    "country": "United States",
+    "zip": 2035,
+    "latlon": [
+42.0653812,
+-71.2478251
+]
+  },
+  {
+    "ID": 1357,
+    "email": "DavidP@Cultivationinnovations.com",
+    "name": "Healthy Harvest",
+    "address1": "15223 S Dixie Highway",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Monroe",
+    "country": "United States",
+    "zip": 48161,
+    "latlon": [
+41.8924196,
+-83.41809419999998
+]
+  },
+  {
+    "ID": 223,
+    "email": "melvinmaggie@tds.net",
+    "name": "Seattle's Hydro Spot",
+    "address1": "12944 Cadmus Road",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Clayton",
+    "country": "United States",
+    "zip": 49235,
+    "latlon": [
+41.871231,
+-84.27518900000001
+]
+  },
+  {
+    "ID": 60,
+    "email": "Greenmattersonline@yahoo.com",
+    "name": "Big Grow Hydroponics",
+    "address1": "592 Wareham St.",
+    "address2": "",
+    "state": "Massachusetts",
+    "city": "Middleboro",
+    "country": "United States",
+    "zip": 2346,
+    "latlon": [
+41.8226161,
+-70.81767430000002
+]
+  },
+  {
+    "ID": 774,
+    "email": "MJohnson@lushledlighting.com",
+    "name": "Grow Gear",
+    "address1": "1964 South 11th Street",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Niles",
+    "country": "United States",
+    "zip": 49120,
+    "latlon": [
+41.7967626,
+-86.2484614
+]
+  },
+  {
+    "ID": 112,
+    "email": "hawk455@verizon.net",
+    "name": "Heavy Harvest Hydroponics",
+    "address1": "709 Warwick Ave",
+    "address2": "",
+    "state": "Rhode Island",
+    "city": "Warwick",
+    "country": "United States",
+    "zip": 2888,
+    "latlon": [
+41.756791,
+-71.404852
+]
+  },
+  {
+    "ID": 891,
+    "email": "toledoindoorgarden@gmail.com",
+    "name": "Super Roots Hydroponics",
+    "address1": "5614 Secor Rd",
+    "address2": "",
+    "state": "Ohio",
+    "city": "Toledo",
+    "country": "United States",
+    "zip": 43623,
+    "latlon": [
+41.7174182,
+-83.62378109999997
+]
+  },
+  {
+    "ID": 346,
+    "email": "ogc.contact@gmail.com",
+    "name": "Hydro Master",
+    "address1": "5215 Monroe Street Suite 10",
+    "address2": "",
+    "state": "Ohio",
+    "city": "Toledo",
+    "country": "United States",
+    "zip": 43623,
+    "latlon": [
+41.700277,
+-83.65121299999998
+]
+  },
+  {
+    "ID": 368,
+    "email": "rortega43@gmail.com",
+    "name": "High Desert Hydroponics",
+    "address1": "6802 Post Road",
+    "address2": "",
+    "state": "Rhode Island",
+    "city": "North Kingstown",
+    "country": "United States",
+    "zip": 2852,
+    "latlon": [
+41.61258300000001,
+-71.45677599999999
+]
+  },
+  {
+    "ID": 1365,
+    "email": "Iancolandro@gmail.com",
+    "name": "Advanced Grow Labs",
+    "address1": "467 Plans Road",
+    "address2": "",
+    "state": "Connecticut",
+    "city": "Milford",
+    "country": "United States",
+    "zip": 6461,
+    "latlon": [
+41.226667,
+-73.09061500000001
+]
+  },
+  {
+    "ID": 234,
+    "email": "omaha@paradigmgardens.com",
+    "name": "Hydroponics Connection",
+    "address1": "8949 J Street Suite #5",
+    "address2": "",
+    "state": "Nebraska",
+    "city": "Omaha",
+    "country": "United States",
+    "zip": 68127,
+    "latlon": [
+41.214322,
+-96.05140599999999
+]
+  },
+  {
+    "ID": 241,
+    "email": "moria@northcoasths.com",
+    "name": "GreenMile Hydroponic Garden",
+    "address1": "1580 Nursery Way Suite Q",
+    "address2": "",
+    "state": "California",
+    "city": "Mckinleyville",
+    "country": "United States",
+    "zip": 95519,
+    "latlon": [
+40.9366796,
+-124.10317559999999
+]
+  },
+  {
+    "ID": 240,
+    "email": "jkattman@neo.rr.com",
+    "name": "Total Hydroponics Center",
+    "address1": "1664 North Main Street #25",
+    "address2": "",
+    "state": "Ohio",
+    "city": "Canton",
+    "country": "United States",
+    "zip": 44720,
+    "latlon": [
+40.897207,
+-81.40499799999998
+]
+  },
+  {
+    "ID": 266,
+    "email": "Email@sunflowersupplies.com",
+    "name": "Harvest Moon Hydroponics Foxboro",
+    "address1": "3104 Expressway Drive South",
+    "address2": "",
+    "state": "New York",
+    "city": "Islandia",
+    "country": "United States",
+    "zip": 11749,
+    "latlon": [
+40.8085064,
+-73.18118749999996
+]
+  },
+  {
+    "ID": 228,
+    "email": "tito@afertileworld.com",
+    "name": "Amazon FBA UK",
+    "address1": "6 Fifth Street",
+    "address2": "",
+    "state": "California",
+    "city": "Eureka",
+    "country": "United States",
+    "zip": "95501-0334",
+    "latlon": [
+40.8010151,
+-124.17111399999999
+]
+  },
+  {
+    "ID": 523,
+    "email": "danskye@hightimes.com",
+    "name": "Acre Garden Supply",
+    "address1": "250 W. 57th Street, Suite 920",
+    "address2": "",
+    "state": "NY",
+    "city": "New York",
+    "country": "United States",
+    "zip": 10107,
+    "latlon": [
+40.7662723,
+-73.9823998
+]
+  },
+  {
+    "ID": 470,
+    "email": "Dan@hightimes.com",
+    "name": "Grow 4XS AU",
+    "address1": "250 W. 57th Street",
+    "address2": "",
+    "state": "New York",
+    "city": "New York",
+    "country": "United States",
+    "zip": 10107,
+    "latlon": [
+40.7662723,
+-73.9823998
+]
+  },
+  {
+    "ID": 20,
+    "email": "james@methodseven.com",
+    "name": "Method Seven",
+    "address1": "419 Park Ave. South Suite E",
+    "address2": "",
+    "state": "New York",
+    "city": "New York",
+    "country": "United States",
+    "zip": 10016,
+    "latlon": [
+40.7436697,
+-73.9835213
+]
+  },
+  {
+    "ID": 908,
+    "email": "barerootsredding@gmail.com",
+    "name": "Samurai Greenhouse Supply",
+    "address1": "1615 E. Cypress",
+    "address2": "",
+    "state": "California",
+    "city": "Redding",
+    "country": "United States",
+    "zip": 96002,
+    "latlon": [
+40.5707552,
+-122.34094849999997
+]
+  },
+  {
+    "ID": 457,
+    "email": "joshchristian13@yahoo.com",
+    "name": "Highland Horticultural",
+    "address1": "6851 AIRPORT RD",
+    "address2": "",
+    "state": "California",
+    "city": "Redding",
+    "country": "United States",
+    "zip": "96002-9475",
+    "latlon": [
+40.486616,
+-122.29285900000002
+]
+  },
+  {
+    "ID": 1086,
+    "email": "laura.noel@ymail.com",
+    "name": "LED It Grow",
+    "address1": "4679 Edie Place",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Erie",
+    "country": "United States",
+    "zip": 80516,
+    "latlon": [
+40.068264,
+-105.02369799999997
+]
+  },
+  {
+    "ID": 391,
+    "email": "tommy@bhocenter.com",
+    "name": "Green Thumb Gardening",
+    "address1": "1630 N. 63rd St. Unit #5",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Boulder",
+    "country": "United States",
+    "zip": 80301,
+    "latlon": [
+40.0155063,
+-105.20600609999997
+]
+  },
+  {
+    "ID": 869,
+    "email": "Danmetsch@yahoo.com",
+    "name": "Green Matters Pocasset",
+    "address1": "7464 Arapahoe Road",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Boulder",
+    "country": "United States",
+    "zip": 80303,
+    "latlon": [
+40.0145712,
+-105.1792792
+]
+  },
+  {
+    "ID": 391,
+    "email": "tommy@bhocenter.com",
+    "name": "How's It Growing LLC",
+    "address1": "4775 Hancock Dr",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Boulder",
+    "country": "United States",
+    "zip": 80303,
+    "latlon": [
+40.007978,
+-105.235589
+]
+  },
+  {
+    "ID": 529,
+    "email": "danny@victoryhydro.com",
+    "name": "Constantly Growing",
+    "address1": "1387 E. South Boulder Road Unit D",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Louisville",
+    "country": "United States",
+    "zip": 80027,
+    "latlon": [
+39.9875123,
+-105.12350700000002
+]
+  },
+  {
+    "ID": 1024,
+    "email": "Josiah@victoryhydro.com",
+    "name": "Premier Hydro",
+    "address1": "1387 E. South Boulder Road Unit D",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Louisville",
+    "country": "United States",
+    "zip": 80027,
+    "latlon": [
+39.9875123,
+-105.12350700000002
+]
+  },
+  {
+    "ID": 1133,
+    "email": "kyle@kyle.com",
+    "name": "West Coast Avengers",
+    "address1": "980 Miami Way",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Boulder",
+    "country": "United States",
+    "zip": 80305,
+    "latlon": [
+39.979841,
+-105.25464099999999
+]
+  },
+  {
+    "ID": 1322,
+    "email": "broubie@bravo-lighting.com",
+    "name": "Taproot Hydroponics",
+    "address1": "1751 Panarama Point Unit E",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Lafayette",
+    "country": "United States",
+    "zip": 80026,
+    "latlon": [
+39.9788412,
+-105.06946069999998
+]
+  },
+  {
+    "ID": 172,
+    "email": "Dealerservice+amazonfba@methodseven.com",
+    "name": "The Hydro Closet",
+    "address1": "5255 Anson Blvd",
+    "address2": "",
+    "state": "Indiana",
+    "city": "Whitestown",
+    "country": "United States",
+    "zip": 46075,
+    "latlon": [
+39.9755527,
+-86.38316209999999
+]
+  },
+  {
+    "ID": 399,
+    "email": "pauljosephs2323@gmail.com",
+    "name": "Vital Landscaping",
+    "address1": "1440 Judson Dr.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Boulder",
+    "country": "United States",
+    "zip": 80305,
+    "latlon": [
+39.974117,
+-105.25718599999999
+]
+  },
+  {
+    "ID": 959,
+    "email": "sales@enviroled.us",
+    "name": "The Hydro Shack",
+    "address1": "7581W. 103rd Ave.,Suite 200",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Westminster",
+    "country": "United States",
+    "zip": 80021,
+    "latlon": [
+39.883896,
+-105.08025099999998
+]
+  },
+  {
+    "ID": 434,
+    "email": "clint@thebigtomato.com",
+    "name": "New Age Gardens",
+    "address1": "8216 Swadley Ct.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Arvada",
+    "country": "United States",
+    "zip": 80005,
+    "latlon": [
+39.846153,
+-105.13149099999998
+]
+  },
+  {
+    "ID": 482,
+    "email": "shane@waytogrow.net",
+    "name": "Bardo Enterprises Pty Ltd AU",
+    "address1": "8101 Raleigh Place",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Westminster",
+    "country": "United States",
+    "zip": 80031,
+    "latlon": [
+39.8439539,
+-105.04522800000001
+]
+  },
+  {
+    "ID": 136,
+    "email": "hiltonpjones@gmail.com",
+    "name": "Shamrock Supply",
+    "address1": "6731 North Federal Blvd.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80221,
+    "latlon": [
+39.8188741,
+-105.02515419999997
+]
+  },
+  {
+    "ID": 583,
+    "email": "eomcfloydo@yahoo.com",
+    "name": "Colorado Bud Blog",
+    "address1": "4652 Gibralter St.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80249,
+    "latlon": [
+39.7956911,
+-104.75720890000002
+]
+  },
+  {
+    "ID": 178,
+    "email": "Justin@maximumGrow.com",
+    "name": "Powered By Awesome",
+    "address1": "22 South Sheridan",
+    "address2": "",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "country": "United States",
+    "zip": 46219,
+    "latlon": [
+39.770703,
+-86.06044299999996
+]
+  },
+  {
+    "ID": 103,
+    "email": "Cultivatecolorado@gmail.com",
+    "name": "Sunlight Supply",
+    "address1": "7614 West 38th Ave #B111",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Wheat Ridge",
+    "country": "United States",
+    "zip": 80033,
+    "latlon": [
+39.7693604,
+-105.081707
+]
+  },
+  {
+    "ID": 500,
+    "email": "sagemasta@gmail.com",
+    "name": "Roots Garden Supply",
+    "address1": "3354 Larimer St.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80205,
+    "latlon": [
+39.765577,
+-104.97577999999999
+]
+  },
+  {
+    "ID": 1022,
+    "email": "milehighsocialmedia@gmail.com",
+    "name": "Method Seven Representative",
+    "address1": "1705 Federal Blvd",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80204,
+    "latlon": [
+39.7442693,
+-105.0256205
+]
+  },
+  {
+    "ID": 204,
+    "email": "Thegrowstoreicm@gmail.com",
+    "name": "Advanced Hydroponic Garden",
+    "address1": "8644 W. Colfax Ave.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Lakewood",
+    "country": "United States",
+    "zip": 80215,
+    "latlon": [
+39.7400036,
+-105.09415209999997
+]
+  },
+  {
+    "ID": 233,
+    "email": "jose@costplushydro.com",
+    "name": "Hometown Hydroponics",
+    "address1": "2530 West Barberry Place",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80204,
+    "latlon": [
+39.7302861,
+-105.01850810000002
+]
+  },
+  {
+    "ID": 900,
+    "email": "jmcohen220@hotmail.com",
+    "name": "Integgrity Insurance",
+    "address1": "12 Broadway #220",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80203,
+    "latlon": [
+39.716915,
+-104.987119
+]
+  },
+  {
+    "ID": 900,
+    "email": "jmcohen220@hotmail.com",
+    "name": "Medicineman",
+    "address1": "601 S Broadway Suite I",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80209,
+    "latlon": [
+39.7057586,
+-104.98760060000001
+]
+  },
+  {
+    "ID": 678,
+    "email": "Ryan@thecliniccolorado.com",
+    "name": "Trichome Tech",
+    "address1": "601 S. Broadway Suite I",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80209,
+    "latlon": [
+39.7057586,
+-104.98760060000001
+]
+  },
+  {
+    "ID": 13,
+    "email": "cultivate.north@gmail.com",
+    "name": "Mountain Feed and Farm Supply",
+    "address1": "666 Buchtell Blvd.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Denver",
+    "country": "United States",
+    "zip": 80210,
+    "latlon": [
+39.6935667,
+-104.97935510000002
+]
+  },
+  {
+    "ID": 1118,
+    "email": "carns@student.cccs.edu",
+    "name": "The Rose Girls Florist & Hydroponic Supplies",
+    "address1": "2841 S. Lansing Way",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Aurora",
+    "country": "United States",
+    "zip": 80014,
+    "latlon": [
+39.66528599999999,
+-104.85758299999998
+]
+  },
+  {
+    "ID": 204,
+    "email": "Thegrowstoreicm@gmail.com",
+    "name": "Alternative Herbal Health Services",
+    "address1": "5050 S. Federal Blvd #31",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Englewood",
+    "country": "United States",
+    "zip": 80110,
+    "latlon": [
+39.6247604,
+-105.0237568
+]
+  },
+  {
+    "ID": 664,
+    "email": "jlancaster@bwgs.com",
+    "name": "Heliospectra AB",
+    "address1": "1400 Hancel Parkway",
+    "address2": "",
+    "state": "Indiana",
+    "city": "Mooresville",
+    "country": "United States",
+    "zip": 46158,
+    "latlon": [
+39.5714358,
+-86.38102789999999
+]
+  },
+  {
+    "ID": 673,
+    "email": "scottembree@mac.com",
+    "name": "LED it Grow",
+    "address1": "9682 Beacon Hill Ct.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Highlands Ranch",
+    "country": "United States",
+    "zip": 80126,
+    "latlon": [
+39.53996,
+-104.97680200000002
+]
+  },
+  {
+    "ID": 624,
+    "email": "lindsay@happygrowlucky.com",
+    "name": "DNA Genetics",
+    "address1": "11973 Springs Road #100",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Conifer",
+    "country": "United States",
+    "zip": 80433,
+    "latlon": [
+39.5009632,
+-105.32543420000002
+]
+  },
+  {
+    "ID": 206,
+    "email": "Headlandsgardensuppy@gmail.com",
+    "name": "Northern Roots Grow Supply",
+    "address1": "630 N Franklin St.",
+    "address2": "",
+    "state": "California",
+    "city": "Fort Bragg",
+    "country": "United States",
+    "zip": 95437,
+    "latlon": [
+39.448515,
+-123.80412000000001
+]
+  },
+  {
+    "ID": 454,
+    "email": "Jennie@homegrowngardeningsolutions.com",
+    "name": "Highland Grow and Flow AU",
+    "address1": "16935 South Elk Creek Road",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Pine",
+    "country": "United States",
+    "zip": 80470,
+    "latlon": [
+39.40895099999999,
+-105.32332500000001
+]
+  },
+  {
+    "ID": 75,
+    "email": "Everestgardensupply1@me.com",
+    "name": "The Hydro Store",
+    "address1": "260 Margie Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Willits",
+    "country": "United States",
+    "zip": 95490,
+    "latlon": [
+39.3859942,
+-123.34360900000001
+]
+  },
+  {
+    "ID": 24,
+    "email": "jeff@methodseven.com",
+    "name": "Marijuana Venture Magazine",
+    "address1": "14370 Muscrove Farm Ct",
+    "address2": "",
+    "state": "Michigan",
+    "city": "Glenwood",
+    "country": "United States",
+    "zip": 21738,
+    "latlon": [
+39.2791997,
+-77.02765999999997
+]
+  },
+  {
+    "ID": 859,
+    "email": "mendogreenhouse@gmail.com",
+    "name": "Growin' Crazy",
+    "address1": "960 E. School Way",
+    "address2": "",
+    "state": "California",
+    "city": "Redwood Valley",
+    "country": "United States",
+    "zip": 95470,
+    "latlon": [
+39.265711,
+-123.20588399999997
+]
+  },
+  {
+    "ID": 859,
+    "email": "mendogreenhouse@gmail.com",
+    "name": "Hydro 101",
+    "address1": "P.O. Box 764",
+    "address2": "",
+    "state": "California",
+    "city": "Redwood Valley",
+    "country": "United States",
+    "zip": 95470,
+    "latlon": [
+39.2652491,
+-123.20414289999997
+]
+  },
+  {
+    "ID": 1083,
+    "email": "hydromaiden@sbcglobal.net",
+    "name": "Second Sun LLC",
+    "address1": "12506 Loma Rica Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Grass Valley",
+    "country": "United States",
+    "zip": 95945,
+    "latlon": [
+39.2215976,
+-121.0117884
+]
+  },
+  {
+    "ID": 284,
+    "email": "Purchasing@hometownhydroponics.com",
+    "name": "Access Hydroponic",
+    "address1": "800 S Auburn St",
+    "address2": "",
+    "state": "California",
+    "city": "Grass Valley",
+    "country": "United States",
+    "zip": 95945,
+    "latlon": [
+39.2013533,
+-121.0599403
+]
+  },
+  {
+    "ID": 185,
+    "email": "gjindoorgardener@gmail.com",
+    "name": "Greenhouse Tech",
+    "address1": "3225 I-70 Business Loop A10",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Clifton",
+    "country": "United States",
+    "zip": 81520,
+    "latlon": [
+39.0905153,
+-108.4547488
+]
+  },
+  {
+    "ID": 622,
+    "email": "info@mdhydro.com",
+    "name": "American Ave. Hydroponics",
+    "address1": "12130 Nebel Street",
+    "address2": "",
+    "state": "Maryland",
+    "city": "North Bethesda",
+    "country": "United States",
+    "zip": 20723,
+    "latlon": [
+39.051998,
+-77.11029510000003
+]
+  },
+  {
+    "ID": 513,
+    "email": "sales@hydroponics-depot.com",
+    "name": "Hydrobuilder.com",
+    "address1": "3266 Centennial Blvd",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Colorado Springs",
+    "country": "United States",
+    "zip": 80907,
+    "latlon": [
+38.8771311,
+-104.84704240000002
+]
+  },
+  {
+    "ID": 218,
+    "email": "Greenhousetech@q.com",
+    "name": "Southside Garden Supply",
+    "address1": "917 East Fillmore Street",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Colorado Springs",
+    "country": "United States",
+    "zip": 80907,
+    "latlon": [
+38.8737496,
+-104.80939209999997
+]
+  },
+  {
+    "ID": 542,
+    "email": "Angieconsulting@yahoo.com",
+    "name": "The Harvest Company",
+    "address1": "422 S. 8th St.",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Colorado Springs",
+    "country": "United States",
+    "zip": 80905,
+    "latlon": [
+38.8277247,
+-104.84076959999999
+]
+  },
+  {
+    "ID": 106,
+    "email": "kbjlkeenan@comcast.net",
+    "name": "Grow Guru Horticulture (Pty) South Africa",
+    "address1": "1109 South Tejon Street",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Colorado Springs",
+    "country": "United States",
+    "zip": 80903,
+    "latlon": [
+38.8180556,
+-104.82403369999997
+]
+  },
+  {
+    "ID": 918,
+    "email": "mgftwo@yahoo.com",
+    "name": "San Francisco Garden Supply",
+    "address1": "4447 Granite Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Rocklin",
+    "country": "United States",
+    "zip": 95677,
+    "latlon": [
+38.7945308,
+-121.21729859999999
+]
+  },
+  {
+    "ID": 426,
+    "email": "growsupplies@yahoo.com",
+    "name": "Black Dog LED",
+    "address1": "4633 Freeman Hill Dr.",
+    "address2": "",
+    "state": "California",
+    "city": "Placerville",
+    "country": "United States",
+    "zip": 95667,
+    "latlon": [
+38.6971672,
+-120.8444571
+]
+  },
+  {
+    "ID": 249,
+    "email": "brooke@plantitearth.com",
+    "name": "D&S Garden Supplies",
+    "address1": "3200 Arden Ridge",
+    "address2": "",
+    "state": "California",
+    "city": "Sacramento",
+    "country": "United States",
+    "zip": 95864,
+    "latlon": [
+38.594621,
+-121.3899457
+]
+  },
+  {
+    "ID": 720,
+    "email": "miked@thegrowbiz.com",
+    "name": "GrandAir Aviation",
+    "address1": "3127 Fite Circle",
+    "address2": "",
+    "state": "California",
+    "city": "Sacramento",
+    "country": "United States",
+    "zip": 95827,
+    "latlon": [
+38.572596,
+-121.32536600000003
+]
+  },
+  {
+    "ID": 6,
+    "email": "brad.mia@gmail.com",
+    "name": "Green in the Black",
+    "address1": "641 Bowen Circle",
+    "address2": "",
+    "state": "Utah",
+    "city": "Moab",
+    "country": "United States",
+    "zip": 84532,
+    "latlon": [
+38.568055,
+-109.53830700000003
+]
+  },
+  {
+    "ID": 55,
+    "email": "lyn@gardenspout.com",
+    "name": "Edens Hydro Gardening Store",
+    "address1": "1236 Briggs Avenue",
+    "address2": "",
+    "state": "California",
+    "city": "Santa Rosa",
+    "country": "United States",
+    "zip": 95401,
+    "latlon": [
+38.449527,
+-122.728545
+]
+  },
+  {
+    "ID": 1319,
+    "email": "houstonsmothermon@hotmail.com",
+    "name": "Oasis Hydroponics Inc",
+    "address1": "992 Stanislaus Way",
+    "address2": "",
+    "state": "California",
+    "city": "Santa Rosa",
+    "country": "United States",
+    "zip": 95401,
+    "latlon": [
+38.441896,
+-122.75888099999997
+]
+  },
+  {
+    "ID": 75,
+    "email": "Everestgardensupply1@me.com",
+    "name": "Method Seven",
+    "address1": "P.O. Box 6006",
+    "address2": "",
+    "state": "California",
+    "city": "Santa Rosa",
+    "country": "United States",
+    "zip": 95406,
+    "latlon": [
+38.44,
+-122.70999999999998
+]
+  },
+  {
+    "ID": 43,
+    "email": "chad@thegrowbiz.com",
+    "name": "J & K Hydroponics AU",
+    "address1": "6731 Sebastopol Ave.",
+    "address2": "",
+    "state": "California",
+    "city": "Sebastopol",
+    "country": "United States",
+    "zip": 95472,
+    "latlon": [
+38.4026186,
+-122.81921569999997
+]
+  },
+  {
+    "ID": 645,
+    "email": "Don@srhydro.com",
+    "name": "Hydrodynamics International, Inc. Marketing",
+    "address1": "4180 S. Moorland Ave.",
+    "address2": "",
+    "state": "California",
+    "city": "Santa Rosa",
+    "country": "United States",
+    "zip": 95407,
+    "latlon": [
+38.3769721,
+-122.71730990000003
+]
+  },
+  {
+    "ID": 260,
+    "email": "kfoudy@gmail.com",
+    "name": "House of Hydroponics",
+    "address1": "55 Enterprise Court Unit 2",
+    "address2": "",
+    "state": "California",
+    "city": "Napa",
+    "country": "United States",
+    "zip": 94558,
+    "latlon": [
+38.260867,
+-122.27330999999998
+]
+  },
+  {
+    "ID": 1260,
+    "email": "nwgardensupply@gmail.com",
+    "name": "One Love Garden Supply",
+    "address1": "9100 E Marginal Way S",
+    "address2": "",
+    "state": "Washington",
+    "city": "Seattle",
+    "country": "United States",
+    "zip": 98108,
+    "latlon": [
+38.18979,
+-122.141821
+]
+  },
+  {
+    "ID": 36,
+    "email": "K.Trichometechnologies@gmail.com",
+    "name": "Chlorophyll",
+    "address1": "646 Henry St.",
+    "address2": "",
+    "state": "California",
+    "city": "Vallejo",
+    "country": "United States",
+    "zip": 94591,
+    "latlon": [
+38.112021,
+-122.22036200000002
+]
+  },
+  {
+    "ID": 447,
+    "email": "Adam@motherlodehydroponics.com",
+    "name": "Willow's Garden Supply",
+    "address1": "795 W Stockton Road",
+    "address2": "",
+    "state": "California",
+    "city": "Sonora",
+    "country": "United States",
+    "zip": 95370,
+    "latlon": [
+37.9770091,
+-120.39140309999999
+]
+  },
+  {
+    "ID": 1330,
+    "email": "elizabethbiddlecome@gmail.com",
+    "name": "Method Seven Marketing & Trade Shows",
+    "address1": "1360 s 49th",
+    "address2": "",
+    "state": "California",
+    "city": "richmond",
+    "country": "United States",
+    "zip": 94804,
+    "latlon": [
+37.912935,
+-122.32824979999998
+]
+  },
+  {
+    "ID": 23,
+    "email": "customerservice@methodseven.com",
+    "name": "Hydroponics 4 Less",
+    "address1": "1606 Milvia Street",
+    "address2": "",
+    "state": "California",
+    "city": "Berkeley",
+    "country": "United States",
+    "zip": 94709,
+    "latlon": [
+37.87751129999999,
+-122.27134409999996
+]
+  },
+  {
+    "ID": 715,
+    "email": "hempstore@patientidcenter.org",
+    "name": "Grassroots Pharm, Inc.",
+    "address1": "P.O. Box 70401",
+    "address2": "",
+    "state": "California",
+    "city": "Oakland",
+    "country": "United States",
+    "zip": 94612,
+    "latlon": [
+37.8113159,
+-122.26822449999997
+]
+  },
+  {
+    "ID": 715,
+    "email": "hempstore@patientidcenter.org",
+    "name": "Grassroots Pharm, Inc.",
+    "address1": "1733 Broadway",
+    "address2": "",
+    "state": "California",
+    "city": "Oakland",
+    "country": "United States",
+    "zip": 94612,
+    "latlon": [
+37.8072819,
+-122.2696211
+]
+  },
+  {
+    "ID": 249,
+    "email": "brooke@plantitearth.com",
+    "name": "Method Seven",
+    "address1": "1 Dorman Ave.",
+    "address2": "",
+    "state": "California",
+    "city": "San Francisco",
+    "country": "United States",
+    "zip": 94124,
+    "latlon": [
+37.7398669,
+-122.4014368
+]
+  },
+  {
+    "ID": 1009,
+    "email": "barbackflow@aol.com",
+    "name": "NorCal HydroGardens & Organics",
+    "address1": "P.O. Box 920",
+    "address2": "",
+    "state": "California",
+    "city": "San Leandro",
+    "country": "United States",
+    "zip": 94577,
+    "latlon": [
+37.7199247,
+-122.16892840000003
+]
+  },
+  {
+    "ID": 359,
+    "email": "gddmc5@aol.com",
+    "name": "Palm Springs Hydroponics and Organics",
+    "address1": "PO Box 86",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Rico",
+    "country": "United States",
+    "zip": 81332,
+    "latlon": [
+37.6927729,
+-108.03035019999999
+]
+  },
+  {
+    "ID": 273,
+    "email": "DBC.INC88@yahoo.com",
+    "name": "Garden Wise",
+    "address1": "5445 Nyland",
+    "address2": "",
+    "state": "California",
+    "city": "Union City",
+    "country": "United States",
+    "zip": 94587,
+    "latlon": [
+37.5952304,
+-122.043969
+]
+  },
+  {
+    "ID": 653,
+    "email": "wcavengr@gmail.com",
+    "name": "Victory Hydro Gardens",
+    "address1": "PO Box 6427",
+    "address2": "",
+    "state": "California",
+    "city": "San Mateo",
+    "country": "United States",
+    "zip": 94403,
+    "latlon": [
+37.5349925,
+-122.30508229999998
+]
+  },
+  {
+    "ID": 1155,
+    "email": "mitch.sadlar@gmail.com",
+    "name": "Flint DIgital",
+    "address1": "1515 Amblewood Drive",
+    "address2": "",
+    "state": "Missouri",
+    "city": "Cape Girardeau",
+    "country": "United States",
+    "zip": 63701,
+    "latlon": [
+37.335097,
+-89.54061000000002
+]
+  },
+  {
+    "ID": 54,
+    "email": "DHL@hushmail.com",
+    "name": "Jim's Flowers II DBA - Northern Lights H.G.S",
+    "address1": "99 Clear Creek Loop",
+    "address2": "",
+    "state": "Colorado",
+    "city": "Durango",
+    "country": "United States",
+    "zip": 81301,
+    "latlon": [
+37.313882,
+-107.782263
+]
+  },
+  {
+    "ID": 518,
+    "email": "Andrea@methodseven.com",
+    "name": "Bad Apple Arts",
+    "address1": "2851 E Research Park Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Soquel",
+    "country": "United States",
+    "zip": 95073,
+    "latlon": [
+36.9857,
+-121.96851800000002
+]
+  },
+  {
+    "ID": 616,
+    "email": "MatthewChana@gmail.com",
+    "name": "Botani Garden",
+    "address1": "2851 E Research Park Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Soquel",
+    "country": "United States",
+    "zip": 95073,
+    "latlon": [
+36.9857,
+-121.96851800000002
+]
+  },
+  {
+    "ID": 20,
+    "email": "james@methodseven.com",
+    "name": "Brew and Grow / Alternative Garden Supply",
+    "address1": "2851 E Research Park Dr.",
+    "address2": "",
+    "state": "California",
+    "city": "Soquel",
+    "country": "United States",
+    "zip": 95073,
+    "latlon": [
+36.9857,
+-121.96851800000002
+]
+  },
+  {
+    "ID": 86,
+    "email": "dealerservice@methodseven.com",
+    "name": "Grace's Hydro-Organic Garden Center",
+    "address1": "2851 E Research Park Dr",
+    "address2": "",
+    "state": "California",
+    "city": "Soquel",
+    "country": "United States",
+    "zip": 95073,
+    "latlon": [
+36.9857,
+-121.96851800000002
+]
+  },
+  {
+    "ID": 19,
+    "email": "Bill@methodseven.com",
+    "name": "Method Seven",
+    "address1": "2851 Research Park Dr. Unit E",
+    "address2": "",
+    "state": "California",
+    "city": "Soquel",
+    "country": "United States",
+    "zip": 95073,
+    "latlon": [
+36.9857,
+-121.96851800000002
+]
+  },
+  {
+    "ID": 683,
+    "email": "Mr.Cash@cash.com",
+    "name": "The Hydro Source",
+    "address1": "2851 E Research Park Drive Suite E",
+    "address2": "",
+    "state": "California",
+    "city": "Soquel",
+    "country": "United States",
+    "zip": 95073,
+    "latlon": [
+36.9857,
+-121.96851800000002
+]
+  },
+  {
+    "ID": 467,
+    "email": "Barry@methodseven.com",
+    "name": "Urban Hydroponics AU",
+    "address1": "2851 E Research Park Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Soquel",
+    "country": "United States",
+    "zip": 95073,
+    "latlon": [
+36.9857,
+-121.96851800000002
+]
+  },
+  {
+    "ID": 952,
+    "email": "chrisdevenpeck@yahoo.com",
+    "name": "Mount Shasta's Green Thumb",
+    "address1": "720 Pleasant Valley Lane",
+    "address2": "",
+    "state": "California",
+    "city": "Aptos",
+    "country": "United States",
+    "zip": 95003,
+    "latlon": [
+36.9840689,
+-121.82420609999997
+]
+  },
+  {
+    "ID": 1040,
+    "email": "walker.pearcepercy@gmail.com",
+    "name": "Tradewinds Sunglass Company",
+    "address1": "609 Riverview Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Capitola",
+    "country": "United States",
+    "zip": 95010,
+    "latlon": [
+36.977766,
+-121.95628099999999
+]
+  },
+  {
+    "ID": 202,
+    "email": "surfingcowboy1@gmail.com",
+    "name": "SnoGro Indoor Gardening Supply",
+    "address1": "692 38th Ave. #21",
+    "address2": "",
+    "state": "California",
+    "city": "Santa Cruz",
+    "country": "United States",
+    "zip": 95062,
+    "latlon": [
+36.962248,
+-121.96632499999998
+]
+  },
+  {
+    "ID": 245,
+    "email": "hydrobroahg@peoplepc.com",
+    "name": "Indoor Garden Solution",
+    "address1": "P.O Box 353",
+    "address2": "",
+    "state": "Tennessee",
+    "city": "Dandridge",
+    "country": "United States",
+    "zip": 37725,
+    "latlon": [
+36.0153693,
+-83.41488950000002
+]
+  },
+  {
+    "ID": 336,
+    "email": "info@nmhydroponic.com",
+    "name": "Los Angeles Hydroponics and Organics",
+    "address1": "107 Jimenez St.",
+    "address2": "",
+    "state": "New Mexico",
+    "city": "Santa Fe",
+    "country": "United States",
+    "zip": 87501,
+    "latlon": [
+35.6904224,
+-105.94968089999998
+]
+  },
+  {
+    "ID": 1208,
+    "email": "andrewtumason@gmail.com",
+    "name": "D.R.Labs s.r.l.s.",
+    "address1": "148 Mesa Verde Street",
+    "address2": "",
+    "state": "New Mexico",
+    "city": "Santa Fe",
+    "country": "United States",
+    "zip": 87501,
+    "latlon": [
+35.6888052,
+-105.968186
+]
+  },
+  {
+    "ID": 383,
+    "email": "santafeindoorstore@hotmail.com",
+    "name": "Aggressive Garden",
+    "address1": "1228 parkway Drive Suite E",
+    "address2": "",
+    "state": "New Mexico",
+    "city": "Santa Fe",
+    "country": "United States",
+    "zip": 87507,
+    "latlon": [
+35.655143,
+-105.99848099999997
+]
+  },
+  {
+    "ID": 354,
+    "email": "danthehydroman@yahoo.com",
+    "name": "Maryland Hydroponics",
+    "address1": "2729 Brundage Ln.",
+    "address2": "",
+    "state": "California",
+    "city": "Bakersfield",
+    "country": "United States",
+    "zip": 93304,
+    "latlon": [
+35.353798,
+-119.03337299999998
+]
+  },
+  {
+    "ID": 759,
+    "email": "NCstore@htgsupply.com",
+    "name": "Hydroponics and More",
+    "address1": "2712 Freedom Drive",
+    "address2": "",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "country": "United States",
+    "zip": 28208,
+    "latlon": [
+35.239019,
+-80.88392899999997
+]
+  },
+  {
+    "ID": 308,
+    "email": "Matt@seaofgreen.net",
+    "name": "Method Seven",
+    "address1": "17 N. Leroux",
+    "address2": "",
+    "state": "Arizona",
+    "city": "Flagstaff",
+    "country": "United States",
+    "zip": 86001,
+    "latlon": [
+35.1982478,
+-111.64915020000001
+]
+  },
+  {
+    "ID": 308,
+    "email": "Matt@seaofgreen.net",
+    "name": "Trans High Corp.",
+    "address1": "204-C E. Route 66",
+    "address2": "",
+    "state": "Arizona",
+    "city": "Flagstaff",
+    "country": "United States",
+    "zip": 86001,
+    "latlon": [
+35.197015,
+-111.64649199999997
+]
+  },
+  {
+    "ID": 471,
+    "email": "Cashcanyo@epbfi.com",
+    "name": "The Grow Room AU",
+    "address1": "2456 cash canyon road",
+    "address2": "",
+    "state": "Tennessee",
+    "city": "Chattanooga",
+    "country": "United States",
+    "zip": 37419,
+    "latlon": [
+35.1037899,
+-85.363272
+]
+  },
+  {
+    "ID": 656,
+    "email": "hdhydroponics@gmail.com",
+    "name": "DNA Genetics",
+    "address1": "13631 Pawnee Rd.",
+    "address2": "",
+    "state": "California",
+    "city": "Apple Valley",
+    "country": "United States",
+    "zip": 92308,
+    "latlon": [
+34.4992023,
+-117.18623230000003
+]
+  },
+  {
+    "ID": 238,
+    "email": "info@bvhydro.com",
+    "name": "Holland Forge Australia",
+    "address1": "17455 Bear Valley Road",
+    "address2": "",
+    "state": "California",
+    "city": "Hesperia",
+    "country": "United States",
+    "zip": 92345,
+    "latlon": [
+34.470334,
+-117.28259500000001
+]
+  },
+  {
+    "ID": 126,
+    "email": "1333145013@methodseven.com",
+    "name": "Green Hands of Aloha",
+    "address1": "1948 Chivers St.",
+    "address2": "",
+    "state": "California",
+    "city": "San Fernando",
+    "country": "United States",
+    "zip": 91340,
+    "latlon": [
+34.300571,
+-118.43340699999999
+]
+  },
+  {
+    "ID": 187,
+    "email": "argad@sunlandhydro.com",
+    "name": "Rock Nutrients",
+    "address1": "8300 Foothill Blvd.",
+    "address2": "",
+    "state": "California",
+    "city": "Sunland",
+    "country": "United States",
+    "zip": 91040,
+    "latlon": [
+34.2594616,
+-118.31353719999998
+]
+  },
+  {
+    "ID": 466,
+    "email": "Kyle@kushman.com",
+    "name": "Lush Lighting",
+    "address1": "19803 Covello Street",
+    "address2": "",
+    "state": "California",
+    "city": "Winnetka",
+    "country": "United States",
+    "zip": 91306,
+    "latlon": [
+34.207693,
+-118.56451199999998
+]
+  },
+  {
+    "ID": 226,
+    "email": "ajohnny88@yahoo.com",
+    "name": "Oso Tool and Garden Supply",
+    "address1": "12822 Victory Blvd.",
+    "address2": "",
+    "state": "California",
+    "city": "North Hollywood",
+    "country": "United States",
+    "zip": 91606,
+    "latlon": [
+34.1864771,
+-118.41264260000003
+]
+  },
+  {
+    "ID": 654,
+    "email": "fakeemailaddress@gmail.com",
+    "name": "Method Seven",
+    "address1": "13170 Cumpston St",
+    "address2": "",
+    "state": "California",
+    "city": "Sherman Oaks",
+    "country": "United States",
+    "zip": 91401,
+    "latlon": [
+34.169186,
+-118.41983500000003
+]
+  },
+  {
+    "ID": 1028,
+    "email": "Don@don.com",
+    "name": "Simple Soil Hydroponics",
+    "address1": "13636 Ventura Blvd Box 153",
+    "address2": "",
+    "state": "California",
+    "city": "Sherman Oaks",
+    "country": "United States",
+    "zip": 91423,
+    "latlon": [
+34.1482691,
+-118.43383449999999
+]
+  },
+  {
+    "ID": 343,
+    "email": "leiferjason@gmail.com",
+    "name": "Method Seven Representative",
+    "address1": "23350 Park Hacienda",
+    "address2": "",
+    "state": "California",
+    "city": "Calabasas",
+    "country": "United States",
+    "zip": 91302,
+    "latlon": [
+34.144884,
+-118.636235
+]
+  },
+  {
+    "ID": 349,
+    "email": "houseofhydroponics@yahoo.com",
+    "name": "Growize Inc.",
+    "address1": "732 West Arrow Hwy",
+    "address2": "",
+    "state": "California",
+    "city": "San Dimas",
+    "country": "United States",
+    "zip": 91773,
+    "latlon": [
+34.1065922,
+-117.82256319999999
+]
+  },
+  {
+    "ID": 328,
+    "email": "Jason@growlite.com",
+    "name": "Miramar Hydroponics",
+    "address1": "908 W. Calora St.",
+    "address2": "",
+    "state": "California",
+    "city": "San Dimas",
+    "country": "United States",
+    "zip": 91773,
+    "latlon": [
+34.104232,
+-117.824905
+]
+  },
+  {
+    "ID": 539,
+    "email": "nostresshydroso@gmail.com",
+    "name": "Columbia Care",
+    "address1": "7543 Santa Monica Blvd.",
+    "address2": "",
+    "state": "California",
+    "city": "West Hollywood",
+    "country": "United States",
+    "zip": 90046,
+    "latlon": [
+34.0909773,
+-118.35430819999999
+]
+  },
+  {
+    "ID": 345,
+    "email": "Palmtreehydroponics@gmail.com",
+    "name": "Reno Hydroponics",
+    "address1": "2235 E 4th St. Suite G",
+    "address2": "",
+    "state": "California",
+    "city": "Ontario",
+    "country": "United States",
+    "zip": 91764,
+    "latlon": [
+34.0779853,
+-117.60275009999998
+]
+  },
+  {
+    "ID": 299,
+    "email": "Greenmilehydro@gmail.com",
+    "name": "The Big Tomato",
+    "address1": "1480 South E Street",
+    "address2": "",
+    "state": "California",
+    "city": "San Bernardino",
+    "country": "United States",
+    "zip": 92408,
+    "latlon": [
+34.0729382,
+-117.29472570000001
+]
+  },
+  {
+    "ID": 313,
+    "email": "thaiphu@gmail.com",
+    "name": "Grow Big Supply",
+    "address1": "2701 Merced Ave.",
+    "address2": "",
+    "state": "California",
+    "city": "El Monte",
+    "country": "United States",
+    "zip": 91733,
+    "latlon": [
+34.060994,
+-118.05172600000003
+]
+  },
+  {
+    "ID": 210,
+    "email": "templehydroshop@gmail.com",
+    "name": "GreenSpirit Hydrogardens",
+    "address1": "3503 Temple Ave Suite A",
+    "address2": "",
+    "state": "California",
+    "city": "Pomona",
+    "country": "United States",
+    "zip": 91768,
+    "latlon": [
+34.0478134,
+-117.81149060000001
+]
+  },
+  {
+    "ID": 193,
+    "email": "keisha@oslholding.com",
+    "name": "High Wire Hydroponics",
+    "address1": "1428 Nadeao Drive",
+    "address2": "",
+    "state": "California",
+    "city": "Los Angeles",
+    "country": "United States",
+    "zip": 90019,
+    "latlon": [
+34.0462677,
+-118.33265640000002
+]
+  },
+  {
+    "ID": 371,
+    "email": "max@dthydro.com",
+    "name": "Method Seven Sales",
+    "address1": "443 East 16 Street",
+    "address2": "",
+    "state": "California",
+    "city": "Los Angeles",
+    "country": "United States",
+    "zip": 90015,
+    "latlon": [
+34.03127,
+-118.257811
+]
+  },
+  {
+    "ID": 367,
+    "email": "dthydro@yahoo.com",
+    "name": "West Coast Avengers",
+    "address1": "443 East 16th Street",
+    "address2": "",
+    "state": "California",
+    "city": "Los Angeles",
+    "country": "United States",
+    "zip": 90015,
+    "latlon": [
+34.03127,
+-118.257811
+]
+  },
+  {
+    "ID": 322,
+    "email": "manager@hydroponicsinc.net",
+    "name": "Growlite",
+    "address1": "3811 Wacker Dr.",
+    "address2": "",
+    "state": "California",
+    "city": "Riverside",
+    "country": "United States",
+    "zip": 91752,
+    "latlon": [
+34.0179058,
+-117.51586220000002
+]
+  },
+  {
+    "ID": 1059,
+    "email": "keith@thehydrosource.com",
+    "name": "Rain City Hydro",
+    "address1": "11760 Slauson Ave",
+    "address2": "",
+    "state": "California",
+    "city": "Santa Fe Springs",
+    "country": "United States",
+    "zip": 90670,
+    "latlon": [
+33.96397,
+-118.06440900000001
+]
+  },
+  {
+    "ID": 1070,
+    "email": "info@florahydroponics.com",
+    "name": "Atwater Hydroponics Inc.",
+    "address1": "1239 Fowler Street NW",
+    "address2": "",
+    "state": "Georgia",
+    "city": "Athens",
+    "country": "United States",
+    "zip": 30607,
+    "latlon": [
+33.9629393,
+-83.50636299999996
+]
+  },
+  {
+    "ID": 677,
+    "email": "pitbulldan83@yahoo.com",
+    "name": "Esposito Garden Center",
+    "address1": "4832 W 141st Street",
+    "address2": "",
+    "state": "California",
+    "city": "Hawthorne",
+    "country": "United States",
+    "zip": 90250,
+    "latlon": [
+33.903449,
+-118.362458
+]
+  },
+  {
+    "ID": 595,
+    "email": "lahydro@att.net",
+    "name": "Senmatic A/S",
+    "address1": "2805 W. 157th Street",
+    "address2": "",
+    "state": "California",
+    "city": "Gardena",
+    "country": "United States",
+    "zip": 90249,
+    "latlon": [
+33.888554,
+-118.32444800000002
+]
+  },
+  {
+    "ID": 170,
+    "email": "Raphae@raphael.com",
+    "name": "Method Seven Marketing & Trade Shows",
+    "address1": "2109 Graham Ave.",
+    "address2": "",
+    "state": "California",
+    "city": "Redondo Beach",
+    "country": "United States",
+    "zip": 90278,
+    "latlon": [
+33.8795487,
+-118.37405409999997
+]
+  },
+  {
+    "ID": 298,
+    "email": "jacki@mytotalhydroponicscenter.com",
+    "name": "Urban Organics (FL",
+    "address1": "4820 Paramount Blvd",
+    "address2": "",
+    "state": "California",
+    "city": "Lakewood",
+    "country": "United States",
+    "zip": 90712,
+    "latlon": [
+33.8465398,
+-118.15966530000003
+]
+  },
+  {
+    "ID": 555,
+    "email": "pshydroponics@gmail.com",
+    "name": "Mendocino County Hydrogardens",
+    "address1": "1301 Montalvo Way Suite 8",
+    "address2": "",
+    "state": "California",
+    "city": "Palm Springs",
+    "country": "United States",
+    "zip": 92262,
+    "latlon": [
+33.840822,
+-116.510265
+]
+  },
+  {
+    "ID": 641,
+    "email": "zenred@live.com",
+    "name": "Growers House",
+    "address1": "1301 Montalvo Way Suite 8",
+    "address2": "",
+    "state": "California",
+    "city": "Palm Springs",
+    "country": "United States",
+    "zip": 92262,
+    "latlon": [
+33.8407223,
+-116.50997380000001
+]
+  },
+  {
+    "ID": 89,
+    "email": "joemartin@atlantishydroponics.com",
+    "name": "Purple Mountain Hydroponics",
+    "address1": "1422 Woodmont Lane Suite #4",
+    "address2": "",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "country": "United States",
+    "zip": 30318,
+    "latlon": [
+33.8031886,
+-84.43420730000003
+]
+  },
+  {
+    "ID": 248,
+    "email": "scott@dutchgardensupplies.com",
+    "name": "Third Coast Horticulture Supply",
+    "address1": "17831 Sky Park Circle Ste 12 C-D",
+    "address2": "",
+    "state": "California",
+    "city": "Irvine",
+    "country": "United States",
+    "zip": 92614,
+    "latlon": [
+33.6902506,
+-117.86160769999998
+]
+  },
+  {
+    "ID": 1036,
+    "email": "m@methodseven.com",
+    "name": "Deep Roots Hydroponics",
+    "address1": "3855 Ruby Harper Blvd",
+    "address2": "",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "country": "United States",
+    "zip": 30354,
+    "latlon": [
+33.6495397,
+-84.38058619999998
+]
+  },
+  {
+    "ID": 411,
+    "email": "grassrootshydrochick@gmail.com",
+    "name": "Oil Slick",
+    "address1": "31875 Corydon Rd Suite #130",
+    "address2": "",
+    "state": "California",
+    "city": "Lake Elsinore",
+    "country": "United States",
+    "zip": 92530,
+    "latlon": [
+33.63244,
+-117.29386899999997
+]
+  },
+  {
+    "ID": 263,
+    "email": "thehydrocloset@yahoo.com",
+    "name": "Kern Hydroponics",
+    "address1": "5826 W Olive Ave.",
+    "address2": "#B106",
+    "state": "Arizona",
+    "city": "Glendale",
+    "country": "United States",
+    "zip": 85302,
+    "latlon": [
+33.5690279,
+-112.1846084
+]
+  },
+  {
+    "ID": 469,
+    "email": "editor@420magazine.com",
+    "name": "Greenleaf Hydroponics AU",
+    "address1": "14 Monarch Bay Plaza #420",
+    "address2": "",
+    "state": "California",
+    "city": "Monarch Beach",
+    "country": "United States",
+    "zip": 92629,
+    "latlon": [
+33.4860351,
+-117.72453000000002
+]
+  },
+  {
+    "ID": 142,
+    "email": "steven@seaofgreen.com",
+    "name": "Ultra Green Hydroponics",
+    "address1": "1301 E. University Dr. #134",
+    "address2": "",
+    "state": "Arizona",
+    "city": "Tempe",
+    "country": "United States",
+    "zip": 85281,
+    "latlon": [
+33.4215567,
+-111.91693220000002
+]
+  },
+  {
+    "ID": 899,
+    "email": "gardensolutionsaz@gmail.com",
+    "name": "Hydro Ponics Inc.",
+    "address1": "2245 W. University Dr. Ste. 3",
+    "address2": "",
+    "state": "Arizona",
+    "city": "Tempe",
+    "country": "United States",
+    "zip": 85281,
+    "latlon": [
+33.4213911,
+-111.9726791
+]
+  },
+  {
+    "ID": 571,
+    "email": "northcountyhydroponics@gmail.com",
+    "name": "Green Grow",
+    "address1": "115 South Coast Highway",
+    "address2": "",
+    "state": "California",
+    "city": "Oceanside",
+    "country": "United States",
+    "zip": 92054,
+    "latlon": [
+33.1945062,
+-117.37850349999997
+]
+  },
+  {
+    "ID": 219,
+    "email": "amanda@sdhydroponics.com",
+    "name": "Endless Green Hydroponics",
+    "address1": "802 North Twin Oaks Valley Road",
+    "address2": "",
+    "state": "California",
+    "city": "San Marcos",
+    "country": "United States",
+    "zip": 92069,
+    "latlon": [
+33.1535039,
+-117.1620072
+]
+  },
+  {
+    "ID": 250,
+    "email": "info@greenspirithydro.com",
+    "name": "The Grow Show",
+    "address1": "1864 Meeting Street",
+    "address2": "",
+    "state": "South Carolina",
+    "city": "Charleston",
+    "country": "United States",
+    "zip": 29405,
+    "latlon": [
+32.8296732,
+-79.9522025
+]
+  },
+  {
+    "ID": 250,
+    "email": "info@greenspirithydro.com",
+    "name": "Full Scale Soil and Hydro",
+    "address1": "3002 Coopers Basin Cir",
+    "address2": "",
+    "state": "South Carolina",
+    "city": "Charleston",
+    "country": "United States",
+    "zip": 29414,
+    "latlon": [
+32.80774299999999,
+-80.08084099999996
+]
+  },
+  {
+    "ID": 575,
+    "email": "miramarhydro@yahoo.com",
+    "name": "Maine Hydroponic Supply",
+    "address1": "1338 Marline Ave",
+    "address2": "",
+    "state": "California",
+    "city": "El Cajon",
+    "country": "United States",
+    "zip": 92021,
+    "latlon": [
+32.805521,
+-116.93346300000002
+]
+  },
+  {
+    "ID": 536,
+    "email": "info@mightyhydro.com",
+    "name": "Indoor Farming Supplies",
+    "address1": "4780 Mission Gorge Place A1",
+    "address2": "",
+    "state": "California",
+    "city": "San Diego",
+    "country": "United States",
+    "zip": 92120,
+    "latlon": [
+32.7813631,
+-117.0913344
+]
+  },
+  {
+    "ID": 100,
+    "email": "rod.lertola@hydrodynamicsintl.com",
+    "name": "The Plant",
+    "address1": "8707 Temple Terrace Hwy",
+    "address2": "",
+    "state": "Florida",
+    "city": "Tampa",
+    "country": "United States",
+    "zip": 33637,
+    "latlon": [
+28.0324518,
+-82.35626660000003
+]
+  },
+  {
+    "ID": 163,
+    "email": "Thefuturefarms@comcast.net",
+    "name": "Go Green Hydroponics",
+    "address1": "14291 SW 120th St. Suite 105",
+    "address2": "",
+    "state": "Florida",
+    "city": "Miami",
+    "country": "United States",
+    "zip": 33186,
+    "latlon": [
+25.6557751,
+-80.4270664
+]
+  },
+  {
+    "ID": 982,
+    "email": "jeff.gibson@superiorgrowers.com",
+    "name": "Method Seven",
+    "address1": "13080 SW 248th St Unit 11",
+    "address2": "",
+    "state": "Florida",
+    "city": "Homestead",
+    "country": "United States",
+    "zip": 33032,
+    "latlon": [
+25.536359,
+-80.404042
+]
+  },
+  {
+    "ID": 780,
+    "email": "info@GrowforXS.com",
+    "name": "EcoGrow LED",
+    "address1": "24 Simms Road",
+    "address2": "",
+    "state": "WA",
+    "city": "Greensborough",
+    "country": "United States",
+    "zip": 3008,
+    "latlon": [
+-37.711954,
+145.11134000000004
+]
+  },
+  {
+    "ID": 784,
+    "email": "info@truebloominhydroponics.com",
+    "name": "Vertical Hydrogarden",
+    "address1": "7/36 Port Kembla Drive",
+    "address2": "",
+    "state": "WA",
+    "city": "Bibra Lake",
+    "country": "United States",
+    "zip": 6163,
+    "latlon": [
+-32.099786,
+115.800884
+]
+  },
+  {
+    "ID": 781,
+    "email": "info@thegrowroom.com",
+    "name": "The Urban Garden",
+    "address1": "1/1451 Albany Highway",
+    "address2": "",
+    "state": "WA",
+    "city": "Cannington",
+    "country": "United States",
+    "zip": 6107,
+    "latlon": [
+-32.026276,
+115.94214999999997
+]
+  },
+  {
+    "ID": 1038,
+    "email": "csteele@heliospectra.com",
+    "name": "Marijuana Venture Magazine",
+    "address1": "SIK, Frans Perssons väg 6",
+    "address2": "",
+    "state": "Göteborg",
+    "city": "Delsjömotet",
+    "country": "Sweden",
+    "zip": "SE-412 76",
+    "latlon": [
+57.6827145,
+12.030282800000009
+]
+  },
+  {
+    "ID": 728,
+    "email": "Themabp@rambler.ru",
+    "name": "Sweet Lime",
+    "address1": "Generala Tuleneva street. 7/2 269",
+    "address2": "",
+    "state": 0,
+    "city": "Moscow",
+    "country": "Russia",
+    "zip": 117465,
+    "latlon": [
+55.62170399999999,
+37.485855000000015
+]
+  },
+  {
+    "ID": 852,
+    "email": "Conflo2004@hotmail.com",
+    "name": "Grow RI Newport",
+    "address1": "35 Griffin Grove",
+    "address2": "",
+    "state": 0,
+    "city": "Levenshulme",
+    "country": "United Kingdom",
+    "zip": "M19 2QQ",
+    "latlon": [
+53.4397258,
+-2.1897669999999607
+]
+  },
+  {
+    "ID": 147,
+    "email": "dennis@drehandel.de",
+    "name": "Amazon FBA",
+    "address1": "Libauer Str. 17",
+    "address2": "",
+    "state": "Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "zip": 10245,
+    "latlon": [
+52.5091134,
+13.454003599999965
+]
+  },
+  {
+    "ID": 860,
+    "email": "martinew@gerbera.com",
+    "name": "New England Hydroponics",
+    "address1": "P.O. Box 3",
+    "address2": "",
+    "state": 0,
+    "city": "AA Aalsmeer",
+    "country": "Netherlands",
+    "zip": 1430,
+    "latlon": [
+52.3505505,
+4.8496748000000025
+]
+  },
+  {
+    "ID": 397,
+    "email": "Growshop@plantator.com.pl",
+    "name": "All Ways Hydro",
+    "address1": "ul. Poznanska 49",
+    "address2": "",
+    "state": 0,
+    "city": "Wiorek",
+    "country": "Poland",
+    "zip": "61-160",
+    "latlon": [
+52.3036778,
+16.90808100000004
+]
+  },
+  {
+    "ID": 860,
+    "email": "martinew@gerbera.com",
+    "name": "East Coast Hydro",
+    "address1": "Dwarsweg 15",
+    "address2": "",
+    "state": 0,
+    "city": "PL De Kwakel",
+    "country": "Netherlands",
+    "zip": 1424,
+    "latlon": [
+52.2293971,
+4.755848900000046
+]
+  },
+  {
+    "ID": 808,
+    "email": "angharadblayney@gmail.com",
+    "name": "Planet Natural",
+    "address1": "41 High Cross Lane",
+    "address2": "",
+    "state": "South Wales",
+    "city": "Newport",
+    "country": "Wales",
+    "zip": "NP10 9BG",
+    "latlon": [
+51.5842416,
+-3.0381256000000576
+]
+  },
+  {
+    "ID": 1021,
+    "email": "wini@grow.de",
+    "name": "MethodSeven Sales",
+    "address1": "Liebenauer Str. 19a",
+    "address2": "",
+    "state": "Hessen",
+    "city": "Liebenau",
+    "country": "Austria",
+    "zip": 34396,
+    "latlon": [
+51.49178999999999,
+9.270739999999932
+]
+  },
+  {
+    "ID": 374,
+    "email": "info@semenakonopi.cz",
+    "name": "Hydro 101",
+    "address1": "Raisova 15",
+    "address2": "",
+    "state": 0,
+    "city": "Usti nad Labem",
+    "country": "Czech Republic",
+    "zip": "400 03",
+    "latlon": [
+50.6573787,
+14.047780200000034
+]
+  },
+  {
+    "ID": 317,
+    "email": "originalgrowshop@gmail.com",
+    "name": "Northern Lights Gardening",
+    "address1": "Palackeho 203",
+    "address2": "",
+    "state": 0,
+    "city": "Marianske Lazne",
+    "country": "Czech Republic",
+    "zip": 35301,
+    "latlon": [
+49.955867,
+12.709539800000016
+]
+  },
+  {
+    "ID": 324,
+    "email": "pawelpiotrdtv@hotmail.com",
+    "name": "Dayton Hydro",
+    "address1": "Gustawa Morcinka 5/73",
+    "address2": "",
+    "state": 0,
+    "city": "Skoczow",
+    "country": "Poland",
+    "zip": "43-430",
+    "latlon": [
+49.7942158,
+18.786481500000036
+]
+  },
+  {
+    "ID": 1048,
+    "email": "helena.urbankova@mazar.cz",
+    "name": "Method Seven",
+    "address1": "Mathonova 20",
+    "address2": "",
+    "state": 0,
+    "city": "Brno",
+    "country": "Czech Republic",
+    "zip": 61300,
+    "latlon": [
+49.2139487,
+16.62323349999997
+]
+  },
+  {
+    "ID": 405,
+    "email": "osijek@igrow.com.hr",
+    "name": "Happy Harvesters (AZ)",
+    "address1": "Hrvatske Republike 43",
+    "address2": "",
+    "state": 0,
+    "city": "Osijek",
+    "country": "Croatia",
+    "zip": 31000,
+    "latlon": [
+45.5582336,
+18.676784399999974
+]
+  },
+  {
+    "ID": 269,
+    "email": "jorge@plantasur.com",
+    "name": "Mother Nature Hydroponics",
+    "address1": "Poligono Industrial Asegra C/Sierra De Lujar 1",
+    "address2": "",
+    "state": "Granada",
+    "city": "Peligros",
+    "country": "Spain",
+    "zip": 18210,
+    "latlon": [
+37.22824,
+-3.6263199999999642
+]
+  },
+  {
+    "ID": 372,
+    "email": "miramarhydro@yahoo.com",
+    "name": "Indoor Eden",
+    "address1": "5360 Marengo Ave Apt. 44",
+    "address2": "",
+    "state": "California",
+    "city": "La Mesa",
+    "country": "United States",
+    "zip": 91942,
+    "latlon": [
+32.776386,
+-117.023529
+]
+  },
+  {
+    "ID": 385,
+    "email": "ryan.acosta@sdhydroponics.com",
+    "name": "Placebo Sårl",
+    "address1": "645 Marsat Ct. #101",
+    "address2": "",
+    "state": "California",
+    "city": "Chula Vista",
+    "country": "United States",
+    "zip": 91911,
+    "latlon": [
+32.6005372,
+-117.0818294
+]
+  },
+  {
+    "ID": 1035,
+    "email": "gene@gene.com",
+    "name": "Grace's Gardening",
+    "address1": "1951 E Roger Rd",
+    "address2": "",
+    "state": "Arizona",
+    "city": "Tucson",
+    "country": "United States",
+    "zip": 85719,
+    "latlon": [
+32.2794917,
+-110.9429131
+]
+  },
+  {
+    "ID": 1010,
+    "email": "kartika@growershouse.com",
+    "name": "Aurora Hydroponics",
+    "address1": "1501 E. 21st St.",
+    "address2": "",
+    "state": "Arizona",
+    "city": "Tuscon",
+    "country": "United States",
+    "zip": 85719,
+    "latlon": [
+32.2085463,
+-110.9486531
+]
+  },
+  {
+    "ID": 960,
+    "email": "Chaselancaster.pk@gmail.com",
+    "name": "C.A.R.E.",
+    "address1": "P.O. Box 13549",
+    "address2": "",
+    "state": "Texas",
+    "city": "Austin",
+    "country": "United States",
+    "zip": 78711,
+    "latlon": [
+30.2781094,
+-97.73844500000001
+]
+  },
+  {
+    "ID": 476,
+    "email": "troy@bihydro.com",
+    "name": "Hindmarsh Hydroponics AU",
+    "address1": "4201 South Congress",
+    "address2": "",
+    "state": "Texas",
+    "city": "Austin",
+    "country": "United States",
+    "zip": 78745,
+    "latlon": [
+30.2205088,
+-97.7648499
+]
+  },
+  {
+    "ID": 1353,
+    "email": "chris.gatorhydro@gmail.com",
+    "name": "West Coast Hydroponics",
+    "address1": "4460 SW 35th Terrace",
+    "address2": "",
+    "state": "Florida",
+    "city": "Gainsville",
+    "country": "United States",
+    "zip": 32608,
+    "latlon": [
+29.611205,
+-82.37555600000002
+]
+  },
+  {
+    "ID": 212,
+    "email": "Jmarie1217@yahoo.com",
+    "name": "Happy Harvesters",
+    "address1": "8438 timber bridge",
+    "address2": "",
+    "state": "Texas",
+    "city": "San Antonio",
+    "country": "United States",
+    "zip": 78250,
+    "latlon": [
+29.494422,
+-98.65488900000003
+]
+  },
+  {
+    "ID": 1245,
+    "email": "JessicaVivian8@yahoo.com",
+    "name": "Green Thumb Organics",
+    "address1": "1313 West Church Street",
+    "address2": "",
+    "state": "New York",
+    "city": "Deland",
+    "country": "United States",
+    "zip": 32720,
+    "latlon": [
+29.030892,
+-81.32973400000003
+]
+  },
+  {
+    "ID": 936,
+    "email": "carolinefiane@gmail.com",
+    "name": "Cultivation Innovations",
+    "address1": "Urbinizacion Caleta alta 19",
+    "address2": "",
+    "state": "Las Palmas",
+    "city": "Caleta De Fuste",
+    "country": "Spain",
+    "zip": 35610,
+    "latlon": [
+28.3968004,
+-13.86382320000007
+]
+  },
+  {
+    "ID": 779,
+    "email": "rpoort@bigpond.net.au",
+    "name": "Growsystem GmbH Oberbüren",
+    "address1": "22 Chris Drive",
+    "address2": "",
+    "state": "VC",
+    "city": "Lilydale",
+    "country": "Australia",
+    "zip": 3140,
+    "latlon": [
+-37.7475029,
+145.3507634
+]
+  },
+  {
+    "ID": 794,
+    "email": "info@Bardo.com",
+    "name": "Mark's Hydroponics And Organic Gardening",
+    "address1": "4/20 Sunset Ave.",
+    "address2": "",
+    "state": "VC",
+    "city": "Barrack Heights",
+    "country": "Australia",
+    "zip": 2528,
+    "latlon": [
+-34.560553,
+150.85794999999996
+]
+  },
+  {
+    "ID": 1152,
+    "email": "info@growguru.co.za",
+    "name": "Solos Grow Shop",
+    "address1": "74 3rd Avenue, Newton Park",
+    "address2": "",
+    "state": 0,
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "zip": 6045,
+    "latlon": [
+-33.95235,
+25.567549999999983
+]
+  },
+  {
+    "ID": 392,
+    "email": "ctutun@gmail.com",
+    "name": "Indoor Plant Kingdom LLC",
+    "address1": "8 Stock Farm Ave",
+    "address2": "",
+    "state": "NSW",
+    "city": "Bella Vista",
+    "country": "Australia",
+    "zip": 2153,
+    "latlon": [
+-33.739094,
+150.961276
+]
+  },
+  {
+    "ID": 393,
+    "email": "ctutun@gmail.com",
+    "name": "Salida Hydroponic Supply",
+    "address1": "8 Stock Farm Ave",
+    "address2": "",
+    "state": "NSW",
+    "city": "Bella Vista",
+    "country": "Australia",
+    "zip": 2153,
+    "latlon": [
+-33.739094,
+150.961276
+]
+  },
+  {
+    "ID": 477,
+    "email": "alister@oz.com",
+    "name": "Green Acres Hydroponics AU",
+    "address1": "P.O. Box 146",
+    "address2": "",
+    "state": "NSW",
+    "city": "Kenthurst",
+    "country": "Australia",
+    "zip": 2156,
+    "latlon": [
+-33.6611485,
+151.00525119999998
+]
+  }
+
+],
+ "meta": {
+    "page": 1,
+    "per_page": 500,
+    "count": 280,
+    "total_pages": 1
+  }
+}

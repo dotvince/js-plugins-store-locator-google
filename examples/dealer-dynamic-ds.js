@@ -2,10 +2,10 @@
  * @implements storeLocator.DataFeed
  * @constructor
  */
-function MedicareDataSource() {
+function DealerDataSource() {
 }
 
-MedicareDataSource.prototype.getStores = function(bounds, features, callback) {
+DealerDataSource.prototype.getStores = function(bounds, features, callback) {
   var that = this;
   var center = bounds.getCenter();
   var audioFeature = this.FEATURES_.getById('Audio-YES');
@@ -37,11 +37,11 @@ MedicareDataSource.prototype.getStores = function(bounds, features, callback) {
   });
 };
 
-MedicareDataSource.prototype.latLngToWkt_ = function(point) {
+DealerDataSource.prototype.latLngToWkt_ = function(point) {
   return 'ST_POINT(' + point.lng() + ', ' + point.lat() + ')';
 };
 
-MedicareDataSource.prototype.boundsToWkt_ = function(bounds) {
+DealerDataSource.prototype.boundsToWkt_ = function(bounds) {
   var ne = bounds.getNorthEast();
   var sw = bounds.getSouthWest();
   return [
@@ -55,7 +55,7 @@ MedicareDataSource.prototype.boundsToWkt_ = function(bounds) {
   ].join('');
 };
 
-MedicareDataSource.prototype.parse_ = function(data) {
+DealerDataSource.prototype.parse_ = function(data) {
   var stores = [];
   for (var i = 0, row; row = data.features[i]; i++) {
     var props = row.properties;
@@ -84,7 +84,7 @@ MedicareDataSource.prototype.parse_ = function(data) {
  * @type {!storeLocator.FeatureSet}
  * @private
  */
-MedicareDataSource.prototype.FEATURES_ = new storeLocator.FeatureSet(
+DealerDataSource.prototype.FEATURES_ = new storeLocator.FeatureSet(
   new storeLocator.Feature('Wheelchair-YES', 'Wheelchair access'),
   new storeLocator.Feature('Audio-YES', 'Audio')
 );
@@ -92,7 +92,7 @@ MedicareDataSource.prototype.FEATURES_ = new storeLocator.FeatureSet(
 /**
  * @return {!storeLocator.FeatureSet}
  */
-MedicareDataSource.prototype.getFeatures = function() {
+DealerDataSource.prototype.getFeatures = function() {
   return this.FEATURES_;
 };
 
@@ -104,7 +104,7 @@ MedicareDataSource.prototype.getFeatures = function() {
  * @param {string} sep the separator.
  * @return {string}
  */
-MedicareDataSource.prototype.join_ = function(arr, sep) {
+DealerDataSource.prototype.join_ = function(arr, sep) {
   var parts = [];
   for (var i = 0, ii = arr.length; i < ii; i++) {
     arr[i] && parts.push(arr[i]);
@@ -119,7 +119,7 @@ MedicareDataSource.prototype.join_ = function(arr, sep) {
  * @param {google.maps.LatLng} latLng the point to sort from.
  * @param {!Array.<!storeLocator.Store>} stores  the stores to sort.
  */
-MedicareDataSource.prototype.sortByDistance_ = function(latLng, stores) {
+DealerDataSource.prototype.sortByDistance_ = function(latLng, stores) {
   stores.sort(function(a, b) {
     return a.distanceTo(latLng) - b.distanceTo(latLng);
   });
