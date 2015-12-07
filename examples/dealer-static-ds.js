@@ -6,7 +6,7 @@ function DealerDataSource() {
   $.extend(this, new storeLocator.StaticDataFeed);
 
   var that = this;
-  $.get('data.csv', function(data) {
+  $.get('data.json', function(data) {
     that.setStores(that.parse_(data));
   });
 }
@@ -33,7 +33,7 @@ DealerDataSource.prototype.getFeatures = function() {
  * @param {string} csv
  * @return {!Array.<!storeLocator.Store>}
  */
-DealerDataSource.prototype.parse_ = function(csv) {
+DealerDataSource.prototype.parse_ = function(data) {
   var stores = [];
   for (var i = 0, row; row = data.results[i]; i++) {
     var props = row.properties;
