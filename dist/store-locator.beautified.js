@@ -249,7 +249,7 @@
             c.length ? b && !b.contains(c[0].getLocation()) && this.storeList_.append(storeLocator.Panel.NO_STORES_IN_VIEW_HTML_) : this.storeList_.append(storeLocator.Panel.NO_STORES_HTML_);
             for (var b = function() {
                 a.highlight(this.store, !0);
-            }, e = 0, f = Math.min(10, c.length); e < f; e++) {
+            }, e = 0, f = Math.min(100, c.length); e < f; e++) {
                 var g = c[e].getInfoPanelItem();
                 g.store = c[e];
                 d && c[e].getId() == d.getId() && $(g).addClass("highlighted");

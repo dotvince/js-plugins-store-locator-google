@@ -22,8 +22,7 @@ DealerDataSource.prototype.getStores = function(bounds, features, callback) {
   }
 
   var tableId = '12421761926155747447-06672618218968397709';
-  var url = 'https://www.googleapis.com/mapsengine/v1/tables/' + tableId +
-      '/features?callback=?';
+  var url = 'http://localhost/js-store-locator/examples/data.json?callback=?';
 
   $.getJSON(url, {
     key: 'AIzaSyAtunhRg0VTElV-P7n4Agpm9tYlABQDCAM',

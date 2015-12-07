@@ -17,8 +17,8 @@ function DealerDataSource() {
  * @private
  */
 DealerDataSource.prototype.FEATURES_ = new storeLocator.FeatureSet(
-  new storeLocator.Feature('Wheelchair-YES', 'Wheelchair access'),
-  new storeLocator.Feature('Audio-YES', 'Audio')
+  // new storeLocator.Feature('Wheelchair-YES', 'Wheelchair access'),
+  // new storeLocator.Feature('Audio-YES', 'Audio')
 );
 
 /**
