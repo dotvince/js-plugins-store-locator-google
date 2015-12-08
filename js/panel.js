@@ -86,7 +86,7 @@ storeLocator.Panel.prototype.init_ = function() {
 
   if (this.settings_['locationSearch']) {
     this.locationSearch_ = $('<div class="location-search"><h4>' +
-        this.settings_['locationSearchLabel'] + '</h4><input></div>');
+        this.settings_['locationSearchLabel'] + '</h4><span class="glyphicon glyphicon-screenshot" aria-hidden="true"> </span>  <input placeholder="Enter location or zip"></div>');
     this.filter_.append(this.locationSearch_);
 
     if (typeof google.maps.places != 'undefined') {
@@ -149,11 +149,7 @@ storeLocator.Panel.prototype.init_ = function() {
   this.el_.append(this.storeList_);
 
   if (this.settings_['directions']) {
-    this.directionsPanel_ = $('<div class="directions-panel"><form>' +
-        '<input class="directions-to"/>' +
-        '<input type="submit" value="Find directions"/>' +
-        '<a href="#" class="close-directions">Close</a>' +
-        '</form><div class="rendered-directions"></div></div>');
+    this.directionsPanel_ = $(this.settings_.directionsPanelHTML);
     this.directionsPanel_.find('.directions-to').attr('readonly', 'readonly');
     this.directionsPanel_.hide();
     this.directionsVisible_ = false;

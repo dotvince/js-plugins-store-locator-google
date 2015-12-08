@@ -5,7 +5,7 @@
 this.geolocation = true;
 
 // Places Search Lable
-this.locationSearchLabel = 'Search By Location or Zip';
+this.locationSearchLabel = '';
 
 //Enable Location Search 
 this.locationSearch = true;
@@ -37,6 +37,9 @@ this.noResultsHtml = '<li class="no-stores warning">There are no stores in this 
 this.streetViewLabel = ' <span class="glyphicon glyphicon-sunglasses" aria-hidden="true"> </span> Street View',
 this.zoomLabel = ' <span class="glyphicon glyphicon-zoom-in" aria-hidden="true"> </span> Zoom Here ',
 this.directionsLabel = '<span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span> Directions ',
+
+//Directions Search Form
+this.directionsPanelHTML = '<div class="directions-panel"><form><input class="directions-to"/><input type="submit" value="Get Directions"/> <a href="#" class="close-directions"><span class="glyphicon glyphicon-remove-sign" aria-hidden="true"> </span> Close</a></form><div class="rendered-directions"></div></div>';
 
 // Enable Draggable routes on the directions
 //this.draggable = false;
@@ -105,6 +108,7 @@ google.maps.event.addDomListener(window, 'load', function() {
         zoomLabel : zoomLabel,
         streetViewLabel : streetViewLabel,
         directionsLabel : directionsLabel,
+        directionsPanelHTML : directionsPanelHTML,
       
     });
 });
