@@ -20,16 +20,36 @@ google.maps.event.addDomListener(window, 'load', function() {
     geolocation: true,
     //features: data.getFeatures()
   });
-  view.createMarker = function(store) {
+ view.createMarker = function(store) {
     var markerOptions = {
       position: store.getLocation(),
       icon: ICON,
       shadow: SHADOW,
       title: store.getDetails().title
     };
-    return new google.maps.Marker(markerOptions);
+    //console.log(new google.maps.Marker(markerOptions));
+    return marker = new google.maps.Marker(markerOptions);
   }
+ // Create new MarkerClusterer object
+    clusters = new MarkerClusterer(map, []);
 
+    // Override so MarkerClusterer object can be populated with Markers
+    view.createMarker = function(store){
+        // We make these markers invisible
+        var markerOptions = {
+        position: store.getLocation(),
+                Opacity : 0,
+        title: store.getDetails().title
+      },
+      // This is the first marker for storeLocator
+            marker = new google.maps.Marker(markerOptions),
+            // This is the second marker for MarkerClusterer. We'll make it visible
+            markercluster = new google.maps.Marker(markerOptions);
+            markercluster.setOpacity(1);
+            markercluster.setClickable(false);
+      clusters.addMarker(markercluster);
+      return marker;
+  };
   new storeLocator.Panel(panelDiv, {
     view: view
   });

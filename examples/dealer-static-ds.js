@@ -46,10 +46,10 @@ DealerDataSource.prototype.parse_ = function(data) {
 
     var shop = this.join_([row.Shp_num_an, row.Shp_centre], ', ');
     var locality = this.join_([row.city, , row.state, row.zip], ', ');
-
+    var website = '<a href = "'+row.website+'">Website</a>'
     var store = new storeLocator.Store(row.ID, position, features, {
       title: row.name,
-      address: this.join_([shop, row.address1, row.address2, locality ], '<br>'),
+      address: this.join_([shop, row.address1, row.address2, locality, row.phone, website ], '<br>'),
       hours: row.Hrs_of_bus
     });
     stores.push(store);
