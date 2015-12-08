@@ -29,7 +29,7 @@ this.gridSize = 25;
 this.maxZoom = 20;
 
 //HTML appended to the search results if no results in the current view. 
-this.noResultsViewHtml ='<li class="no-stores alert alert-warning"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"> </span> There are no stores in this area. However, we have listed the stores closest to you are listed below.</li><hr>',
+this.noResultsViewHtml ='<li class="no-stores alert alert-warning"><span class="glyphicon glyphicon-warning-sign" aria-hidden="true"> </span> There are no stores in this area. However, we have listed the stores closest to you below.</li><hr>',
 // HTML if there are no results. (Dynamic) 
 this.noResultsHtml = '<li class="no-stores warning">There are no stores in this area.</li><hr>',
 
