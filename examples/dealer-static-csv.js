@@ -33,56 +33,31 @@ DealerDataSource.prototype.getFeatures = function() {
  * @param {string} csv
  * @return {!Array.<!storeLocator.Store>}
  */
-DealerDataSource.prototype.parse_ = function(data) {
+DealerDataSource.prototype.parse_ = function(csv) {
   var stores = [];
-  for (var i = 0, row; row = data.results[i]; i++) {
-    var props = row.properties;
+  var rows = csv.split('\n');
+  var headings = this.parseRow_(rows[0]);
+
+  for (var i = 1, row; row = rows[i]; i++) {
+    row = this.toObject_(headings, this.parseRow_(row));
     var features = new storeLocator.FeatureSet;
-    // features.add(this.FEATURES_.getById('Wheelchair-' + props.Wheelchair));
-    // features.add(this.FEATURES_.getById('Audio-' + props.Audio));
+    features.add(this.FEATURES_.getById('Wheelchair-' + row.Wheelchair));
+    features.add(this.FEATURES_.getById('Audio-' + row.Audio));
 
-
-        var position = new google.maps.LatLng(row.lat, row.lon);
+    var position = new google.maps.LatLng(row.lat, row.lon);
 
     var shop = this.join_([row.Shp_num_an, row.Shp_centre], ', ');
     var locality = this.join_([row.city, , row.state, row.zip], ', ');
-    var website = '<a href = "http://'+row.website+'" target="blank">Website <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>'
+
     var store = new storeLocator.Store(row.ID, position, features, {
       title: row.name,
-      address: this.join_([shop, row.address1, row.address2, locality, row.phone, website ], '<br>'),
+      address: this.join_([shop, row.address1, row.address2, locality ], '<br>'),
       hours: row.Hrs_of_bus
     });
     stores.push(store);
   }
   return stores;
 };
-
-
-// DealerDataSource.prototype.parse_ = function(csv) {
-//   var stores = [];
-//   var rows = csv.split('\n');
-//   var headings = this.parseRow_(rows[0]);
-
-//   for (var i = 1, row; row = rows[i]; i++) {
-//     row = this.toObject_(headings, this.parseRow_(row));
-//     var features = new storeLocator.FeatureSet;
-//     features.add(this.FEATURES_.getById('Wheelchair-' + row.Wheelchair));
-//     features.add(this.FEATURES_.getById('Audio-' + row.Audio));
-
-//     var position = new google.maps.LatLng(row.lat, row.lon);
-
-//     var shop = this.join_([row.Shp_num_an, row.Shp_centre], ', ');
-//     var locality = this.join_([row.city, , row.state, row.zip], ', ');
-
-//     var store = new storeLocator.Store(row.ID, position, features, {
-//       title: row.name,
-//       address: this.join_([shop, row.address1, row.address2, locality ], '<br>'),
-//       hours: row.Hrs_of_bus
-//     });
-//     stores.push(store);
-//   }
-//   return stores;
-// };
 
 /**
  * Joins elements of an array that are non-empty and non-null.

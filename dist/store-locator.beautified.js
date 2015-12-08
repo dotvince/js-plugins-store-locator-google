@@ -120,6 +120,9 @@
             locationSearch: !0,
             locationSearchLabel: "Where are you?",
             featureFilter: !0,
+            noResultsViewHtml :'<li class="no-stores warning">There are no stores in this area. However, we have listed the stores closest to you are listed below.</li><hr>',
+            noResultsViewHtml : '<li class="no-stores">There are no stores in this area.</li>',
+            directionsPanelHTML: '<div class="directions-panel"><form><input class="directions-to"/><input type="submit" value="Find directions"/><a href="#" class="close-directions">Close</a></form><div class="rendered-directions"></div></div>',
             directions: !0,
             view: null
         }, b);
@@ -240,13 +243,13 @@
         this.center_ ? a.getBounds().contains(this.center_) || (this.center_ = a.getCenter(), 
         this.listenForStoresUpdate_()) : this.center_ = a.getCenter();
     };
-    storeLocator.Panel.NO_STORES_HTML_ = '<li class="no-stores">There are no stores in this area.</li>';
-    storeLocator.Panel.NO_STORES_IN_VIEW_HTML_ = '<li class="no-stores">There are no stores in this area. However, stores closest to you are listed below.</li>';
+
     storeLocator.Panel.prototype.stores_changed = function() {
         if (this.get("stores")) {
             var a = this.get("view"), b = a && a.getMap().getBounds(), c = this.get("stores"), d = this.get("selectedStore");
             this.storeList_.empty();
-            c.length ? b && !b.contains(c[0].getLocation()) && this.storeList_.append(storeLocator.Panel.NO_STORES_IN_VIEW_HTML_) : this.storeList_.append(storeLocator.Panel.NO_STORES_HTML_);
+            console.log(this.settings_.noResultsHtml);
+            c.length ? b && !b.contains(c[0].getLocation()) && this.storeList_.append(this.settings_.noResultsViewHtml) : this.storeList_.append(this.settings_.noResultsHtml);
             for (var b = function() {
                 a.highlight(this.store, !0);
             }, e = 0, f = Math.min(100, c.length); e < f; e++) {
@@ -490,7 +493,7 @@
         a.setMarker(b);
         var c = this;
         b.clickListener_ = google.maps.event.addListener(b, "click", function() {
-            c.highlight(a, !1);
+            c.highlight(a, 1);
         });
         b.getMap() != this.getMap() && b.setMap(this.getMap());
     };

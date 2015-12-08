@@ -1,43 +1,66 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Store locator with Panel</title>
-    <script
-      src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
-    <script
-      src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js">
-    </script>
-    <script src="../dist/store-locator.beautified.js"></script>
-    <script src="dealer-static-ds.js"></script>
-    <script src="cluster.js"></script>
-    <script src="panel.js"></script>    
-
-    <link rel="stylesheet" href="../css/storelocator.css">
-    <style>
-      body { font-family: sans-serif; }
-      #map-canvas, #panel { height: 500px; }
-      #panel { width: 300px; float: left; margin-right: 10px; }
-      #panel .feature-filter label { width: 130px; }
-      p.attribution, p.attribution a { color: #666; }
-    </style>
-    <script>
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-12846745-20']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-  </head>
-  <body>
-    <h1>Dealer offices</h1>
-    <div id="panel"></div>
-    <div id="map-canvas"></div>
-    
-  </body>
-
-</html>
+    <head>
+        <meta charset="utf-8">
+        <title>Store locator with Panel</title>
+        <script
+        src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="../dist/store-locator.min.js"></script>
+        <!--  <script src="../dist/store-locator.beautified.js"></script> -->
+        <script src="dealer-static-ds.js"></script>
+        <script src="cluster.js"></script>
+        <script src="panel.js"></script>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+        <link rel="stylesheet" href="../css/storelocator.css">
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <style>
+            body { font-family: sans-serif; }
+            #map-canvas, #panel { height: 500px; }
+            #panel { width: 300px; float: left; margin-right: 10px; }
+            #panel .feature-filter label { width: 130px; }
+            p.attribution, p.attribution a { color: #666; }
+            .navbar {margin-bottom: 100px;}
+        </style>
+    </head>
+    <body>
+        <!-- Fixed navbar -->
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Dealer Locator Demo</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">Home</a></li>
+                        <li><a href="#about">Dynamic</a></li>
+                        <li><a href="#contact">Static</a></li>
+                    </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </nav>
+            <hr>
+            <div class="container" role="main">
+              <div class="row">
+                <h1>Google Maps Dealer & Store Locator</h1>
+                <div id="panel"></div>
+                <div id="map-canvas"></div>
+              </div>
+            </div>
+        </body>
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    </html>

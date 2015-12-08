@@ -39,7 +39,7 @@
 }
 
 .storelocator-panel .location-search h4 {
-  font-size: 0.8em;
+  
   margin: 0;
   padding: 0;
 }
@@ -57,7 +57,6 @@
 }
 
 .storelocator-panel .feature-filter label {
-  display: block;
   font-size: 0.8em;
   margin: 0 0.4em;
   float: left;

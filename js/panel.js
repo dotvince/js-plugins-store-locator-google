@@ -43,13 +43,20 @@
 storeLocator.Panel = function(el, opt_options) {
   this.el_ = $(el);
   this.el_.addClass('storelocator-panel');
+  //THese are the default values if the options are not set. 
   this.settings_ = $.extend({
-      'locationSearch': true,
-      'locationSearchLabel': 'Where are you?',
-      'featureFilter': true,
-      'directions': true,
-      'view': null
-    }, opt_options);
+            locationSearch: !0,
+            locationSearchLabel: "Where are you?",
+            featureFilter: !0,
+            noResultsViewHtml :'<li class="no-stores alert alert-warning" role = "alert">There are no stores in this area. However, we have listed the stores closest to you are listed below.</li><hr>',
+            noResultsViewHtml : '<li class="no-stores">There are no stores in this area.</li>',
+            directionsPanelHTML: '<div class="directions-panel"><form><input class="directions-to"/><input type="submit" value="Find directions"/><a href="#" class="close-directions">Close</a></form><div class="rendered-directions"></div></div>',
+            zoomLabel : 'Zoom Here',
+            streetViewLabel : 'Street View',
+            directionsLabel : 'Directions',
+            directions: !0,
+            view: null
+        }, opt_options);
 
   this.directionsRenderer_ = new google.maps.DirectionsRenderer({
     draggable: true
@@ -334,9 +341,9 @@ storeLocator.Panel.prototype.stores_changed = function() {
   this.storeList_.empty();
 
   if (!stores.length) {
-    this.storeList_.append(storeLocator.Panel.NO_STORES_HTML_);
+    this.storeList_.append(this.settings_.noResultsHtml);
   } else if (bounds && !bounds.contains(stores[0].getLocation())) {
-    this.storeList_.append(storeLocator.Panel.NO_STORES_IN_VIEW_HTML_);
+    this.storeList_.append(this.settings_.noResultsViewHtml);
   }
 
   var clickHandler = function() {
@@ -383,7 +390,7 @@ storeLocator.Panel.prototype.selectedStore_changed = function() {
 
   var node = that.get('view').getInfoWindow().getContent();
   var directionsLink = $('<a/>')
-                          .text('Directions')
+                          .html(this.settings_.directionsLabel)
                           .attr('href', '#')
                           .addClass('action')
                           .addClass('directions');
@@ -391,13 +398,13 @@ storeLocator.Panel.prototype.selectedStore_changed = function() {
   // TODO(cbro): Make these two permanent fixtures in InfoWindow.
   // Move out of Panel.
   var zoomLink = $('<a/>')
-                    .text('Zoom here')
+                    .html(this.settings_.zoomLabel)
                     .attr('href', '#')
                     .addClass('action')
                     .addClass('zoomhere');
 
   var streetViewLink = $('<a/>')
-                          .text('Street view')
+                          .html(this.settings_.streetViewLabel)
                           .attr('href', '#')
                           .addClass('action')
                           .addClass('streetview');
