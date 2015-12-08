@@ -48,8 +48,8 @@ this.directionsPanelHTML = '<div class="directions-panel"><form><input class="di
 google.maps.event.addDomListener(window, 'load', function() {
   
 
-  var ICON = new google.maps.MarkerImage('grow.png', null, null, new google.maps.Point(14, 13));
-  var SHADOW = new google.maps.MarkerImage('dealer-shadow.png', null, null, new google.maps.Point(14, 13));
+  var ICON = new google.maps.MarkerImage('logo.png', null, null, new google.maps.Point(14, 13));
+  var SHADOW = new google.maps.MarkerImage('shadow.png', null, null, new google.maps.Point(14, 13));
 
     var map = new google.maps.Map(document.getElementById(this.mapDiv), {
         center: new google.maps.LatLng(40, -100),
