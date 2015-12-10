@@ -4,9 +4,13 @@
  */
 function DealerDataSource() {
   jQuery.extend(this, new storeLocator.StaticDataFeed);
-  
+
   var that = this;
-  jQuery.get(DL_SOURCE_URL, function(data) {
+  
+  var urlParams = dealerlocator_websites ? '?websites='+dealerlocator_websites : '';
+  
+  jQuery.get('/dealerlocator/index/getaddresses'+urlParams, function(data) {
+//  jQuery.get('/js/flintdigital/dealerlocator/data.json', function(data) {
     that.setStores(that.parse_(data));
   });
 }
@@ -36,7 +40,7 @@ DealerDataSource.prototype.getFeatures = function() {
 DealerDataSource.prototype.parse_ = function(data) {
   var stores = [];
   for (var i = 0, row; row = data.results[i]; i++) {
-//    var props = row.properties;
+    var props = row.properties;
     var features = new storeLocator.FeatureSet;
     // features.add(this.FEATURES_.getById('Wheelchair-' + props.Wheelchair));
     // features.add(this.FEATURES_.getById('Audio-' + props.Audio));
@@ -44,17 +48,13 @@ DealerDataSource.prototype.parse_ = function(data) {
 
         var position = new google.maps.LatLng(row.lat, row.lon);
 
-//    var shop = this.join_([row.Shp_num_an, row.Shp_centre], ', ');
+    var shop = this.join_([row.Shp_num_an, row.Shp_centre], ', ');
     var locality = this.join_([row.city, , row.state, row.zip], ', ');
-    var website = row.website ? row.website.trim() : '';
-    if(website.length > 1) {
-        website = '<a href = "http://'+row.website+'" target="blank">Website <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>';
-    }
-    
+    var website = '<a href = "'+row.ID+'">Website</a>'
     var store = new storeLocator.Store(row.ID, position, features, {
       title: row.name,
-      address: this.join_([/*shop, */row.address1/*, row.address2*/, locality, row.phone, website ], '<br>'),
-      misc: row.hours
+      address: this.join_([shop, row.address1, row.address2, locality, row.phone, website ], '<br>'),
+      hours: row.Hrs_of_bus
     });
     stores.push(store);
   }

@@ -1,4 +1,5 @@
-  "use strict";
+var DL_SOURCE_URL = DL_SOURCE_URL !== undefined && DL_SOURCE_URL.length > 0 ? DL_SOURCE_URL : 'data.json';
+ 
 //Map Settings
 
 //Gelocation. Set to true or false. Defaults to true.
@@ -48,7 +49,7 @@ this.directionsPanelHTML = '<div class="directions-panel"><form><input class="di
 google.maps.event.addDomListener(window, 'load', function() {
   
 
-  var ICON = new google.maps.MarkerImage('logo.png', null, null, new google.maps.Point(14, 13));
+  var ICON = new google.maps.MarkerImage('/js/flintdigital/dealerlocator/logo.png', null, null, new google.maps.Point(14, 13));
   var SHADOW = new google.maps.MarkerImage('shadow.png', null, null, new google.maps.Point(14, 13));
 
     var map = new google.maps.Map(document.getElementById(this.mapDiv), {
