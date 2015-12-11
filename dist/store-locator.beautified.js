@@ -121,7 +121,7 @@
             locationSearchLabel: "Where are you?",
             featureFilter: !0,
             noResultsViewHtml :'<li class="no-stores warning">There are no stores in this area. However, we have listed the stores closest to you are listed below.</li><hr>',
-            noResultsViewHtml : '<li class="no-stores">There are no stores in this area.</li>',
+//            noResultsViewHtml : '<li class="no-stores">There are no stores in this area.</li>',
             directionsPanelHTML: '<div class="directions-panel"><form><input class="directions-to"/><input type="submit" value="Find directions"/><a href="#" class="close-directions">Close</a></form><div class="rendered-directions"></div></div>',
             directions: !0,
             view: null
@@ -216,6 +216,7 @@
         var b = this;
         this.geolocationListener_ && google.maps.event.removeListener(this.geolocationListener_);
         this.zoomListener_ && google.maps.event.removeListener(this.zoomListener_);
+        this.dragendListener_ && google.maps.event.removeListener(this.dragendListener_);
         this.idleListener_ && google.maps.event.removeListener(this.idleListener_);
         a.getMap().getCenter();
         var c = function() {
@@ -224,6 +225,7 @@
         };
         this.geolocationListener_ = google.maps.event.addListener(a, "load", c);
         this.zoomListener_ = google.maps.event.addListener(a.getMap(), "zoom_changed", c);
+        this.dragendListener_ = google.maps.event.addListener(a.getMap(), "dragend", c);
         this.idleListener_ = google.maps.event.addListener(a.getMap(), "idle", function() {
             return b.idle_(a.getMap());
         });
@@ -248,7 +250,7 @@
         if (this.get("stores")) {
             var a = this.get("view"), b = a && a.getMap().getBounds(), c = this.get("stores"), d = this.get("selectedStore");
             this.storeList_.empty();
-            console.log(this.settings_.noResultsHtml);
+            
             c.length ? b && !b.contains(c[0].getLocation()) && this.storeList_.append(this.settings_.noResultsViewHtml) : this.storeList_.append(this.settings_.noResultsHtml);
             for (var b = function() {
                 a.highlight(this.store, !0);
@@ -256,6 +258,7 @@
                 var g = c[e].getInfoPanelItem();
                 g.store = c[e];
                 d && c[e].getId() == d.getId() && $(g).addClass("highlighted");
+                c[e].classInMap($(g));
                 g.clickHandler_ || (g.clickHandler_ = google.maps.event.addDomListener(g, "click", b));
                 this.storeList_.append(g);
             }

@@ -1,4 +1,5 @@
 var DL_SOURCE_URL = DL_SOURCE_URL !== undefined && DL_SOURCE_URL.length > 0 ? DL_SOURCE_URL : 'data.json';
+var DL_PIN_URL = DL_PIN_URL !== undefined && DL_PIN_URL.length > 0 ? DL_PIN_URL : 'logo.png';
  
 //Map Settings
 
@@ -42,6 +43,7 @@ this.directionsLabel = '<span class="glyphicon glyphicon-map-marker" aria-hidden
 //Directions Search Form
 this.directionsPanelHTML = '<div class="directions-panel"><form><input class="directions-to"/><input type="submit" value="Get Directions"/> <a href="#" class="close-directions"><span class="glyphicon glyphicon-remove-sign" aria-hidden="true"> </span> Close</a></form><div class="rendered-directions"></div></div>';
 
+var map;
 // Enable Draggable routes on the directions
 //this.draggable = false;
 // Set Custom Icons
@@ -49,10 +51,10 @@ this.directionsPanelHTML = '<div class="directions-panel"><form><input class="di
 google.maps.event.addDomListener(window, 'load', function() {
   
 
-  var ICON = new google.maps.MarkerImage('/js/flintdigital/dealerlocator/logo.png', null, null, new google.maps.Point(14, 13));
+  var ICON = new google.maps.MarkerImage(DL_PIN_URL, null, null, new google.maps.Point(14, 13));
   var SHADOW = new google.maps.MarkerImage('shadow.png', null, null, new google.maps.Point(14, 13));
 
-    var map = new google.maps.Map(document.getElementById(this.mapDiv), {
+    map = new google.maps.Map(document.getElementById(this.mapDiv), {
         center: new google.maps.LatLng(40, -100),
         zoom: 4,
         mapTypeId: google.maps.MapTypeId.ROADMAP
@@ -113,3 +115,17 @@ google.maps.event.addDomListener(window, 'load', function() {
       
     });
 });
+
+//Adds class "inmap" if a store if it is in the map
+storeLocator.Store.prototype.classInMap = function(jqElement) {
+    if(map.getBounds().contains(this.getLocation())) {
+        if(!jqElement.hasClass('inmap'))
+            jqElement.addClass('inmap');
+    }
+
+    else {
+        jqElement.removeClass('inmap');
+    }
+
+};
+    
