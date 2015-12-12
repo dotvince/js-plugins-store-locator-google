@@ -556,8 +556,12 @@
     };
     storeLocator.View.prototype.highlight = function(a, b) {
         var c = this.getInfoWindow(a);
-        a ? (c = this.getInfoWindow(a), a.getMarker() ? c.open(this.getMap(), a.getMarker()) : (c.setPosition(a.getLocation()), 
-        c.open(this.getMap())), b && this.getMap().panTo(a.getLocation()), this.getMap().getStreetView().getVisible() && this.getMap().getStreetView().setPosition(a.getLocation())) : c.close();
+        //Hack to make it work for dragend event
+        a ? (
+            c = this.getInfoWindow(a), (c.setPosition(a.getLocation()), c.open(this.getMap())), 
+            b && this.getMap().panTo(a.getLocation()), this.getMap().getStreetView().getVisible() && this.getMap().getStreetView().setPosition(a.getLocation())
+        ) : c.close();
+        
         this.set("selectedStore", a);
     };
     storeLocator.View.prototype.selectedStore_changed = function() {
